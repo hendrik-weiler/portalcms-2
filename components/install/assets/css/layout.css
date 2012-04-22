@@ -1,0 +1,27 @@
+/*>
+	$root = DOCROOT
+<*/
+
+.install-container {
+	width: 800px;
+	margin:auto;
+}
+
+.install-steps ul {
+	list-style:none;
+	border-bottom:1px solid black;
+	overflow: hidden;
+}
+
+.install-steps ul li {
+	float:left;
+	width:190px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	font-weight:bold;
+}
+
+.install-active {
+	background: #c7c7c7 url($root/server/component/install/gradient.png) bottom left repeat-x;
+}
