@@ -10,7 +10,7 @@
 </p>
 
 <div class=""><?php print __('4.admintext'); ?><div>
-<h3 style="margin:8px;margin-left:0px;"><a class="btn btn-primary" href="<?php print \Uri::create('logincenter/login') ?>"><?php print __('4.adminlink'); ?></a></h3>
+<h3 style="margin:8px;margin-left:0px;"><a class="btn btn-primary" href="<?php print \Uri::create('logincenter') ?>"><?php print __('4.adminlink'); ?></a></h3>
     <?php print Helper\AjaxLoader::render('p button:eq(0)',
     	false,
     	\Uri::create('install/action/disable_install_tool'),''); ?>

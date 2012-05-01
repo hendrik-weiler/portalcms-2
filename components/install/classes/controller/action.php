@@ -195,17 +195,16 @@ class Controller_Action extends \Controller
 		}
 		else if($password == $password_repeat)
 		{
-			$account = new \db\AccountsBackend();
+			$account = new \db\Accounts();
 			$account->username = $username;
 			$account->password = sha1($password);
 			$account->language = 'en';
 			$account->session = 'logout_' . sha1($password) . sha1($username);
-			$account->admin = 1;
-			$account->permissions = '';
+			$account->group = 1;
 			$account->save();
 
 			$avatar = new \db\AccountsAvatars();
-			$avatar->account_id = \db\AccountsBackend::find('last')->id;
+			$avatar->account_id = \db\Accounts::find('last')->id;
 			$avatar->picture = $image;
 			$avatar->save();
 
@@ -222,7 +221,7 @@ class Controller_Action extends \Controller
 
 	public function action_upload_picture()
 	{
-		$last = \DB::query("SHOW TABLE STATUS LIKE 'accounts_backend'", \DB::SELECT)->execute()->as_array();
+		$last = \DB::query("SHOW TABLE STATUS LIKE 'accounts'", \DB::SELECT)->execute()->as_array();
 		$next = 0;
 		if($last == false)
 			$next = 1;

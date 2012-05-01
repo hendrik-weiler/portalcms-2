@@ -80,6 +80,11 @@ class Controller_Install extends \Controller
 			$version->value = $last_version;
 			$version->save();
 
+			$account = new \db\AccountsGroup();
+			$account->label = 'Admin';
+			$account->permissions = json_encode(array());
+			$account->save();
+
 			\db\NavGroup::setLangPrefix('en');
 			$navgroup = new \db\NavGroup();
 			$navgroup->title = 'Main';
@@ -102,8 +107,8 @@ class Controller_Install extends \Controller
 
 	public function action_step3()
 	{
-		$accounts = \db\AccountsBackend::find('all',array(
-			'where' => array('admin'=>1)
+		$accounts = \db\Accounts::find('all',array(
+			'where' => array('group'=>\db\AccountsGroup::getGroupByLabel('Admin')->id)
 		));
 		$account_final = array();
 		foreach ($accounts as $key => $account) 
@@ -121,8 +126,8 @@ class Controller_Install extends \Controller
 
 	public function action_step4()
 	{
-		$accounts = \db\AccountsBackend::find('all',array(
-			'where' => array('admin'=>1)
+		$accounts = \db\Accounts::find('all',array(
+			'where' => array('group'=>1)
 		));
 
 		$this->data->can_be_disabled = count($accounts) != 0;

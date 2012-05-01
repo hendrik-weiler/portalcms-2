@@ -84,30 +84,20 @@ class v200 implements \Install\p2migration
 
 	public function update($languages)
 	{
-		\DBUtil::create_table('languages', array(
+	\DBUtil::create_table('languages', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
             'label' => array('type' => 'varchar', 'constraint' => 45, 'null' => true),
             'prefix' => array('type' => 'varchar', 'constraint' => 8, 'null' => true),
             'sort' => array('type' => 'int', 'constraint' => 11, 'null' => true),
         ), array('id'));
 
-            \DBUtil::create_table('options', array(
+      \DBUtil::create_table('options', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
             'key' => array('type' => 'varchar', 'constraint' => 80, 'null' => true),
             'value' => array('type' => 'text', 'null' => true),
         ), array('id'));
 
-		\DBUtil::create_table('accounts_backend', array(
-            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
-            'username' => array('type' => 'varchar', 'constraint' => 15, 'null' => true),
-            'password' => array('type' => 'text', 'null' => true),
-            'session' => array('type' => 'varchar', 'constraint' => 100),
-            'language' => array('type' => 'varchar', 'constraint' => 10, 'null' => true),
-            'admin' => array('type' => 'bool', 'null' => true),
-            'permissions' => array('type' => 'text', 'null' => true),
-        ), array('id'));
-
-		\DBUtil::create_table('accounts_frontend', array(
+	\DBUtil::create_table('accounts', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
             'username' => array('type' => 'varchar', 'constraint' => 15, 'null' => true),
             'password' => array('type' => 'text', 'null' => true),
@@ -116,10 +106,16 @@ class v200 implements \Install\p2migration
             'group' => array('type' => 'int','null' => true)
         ), array('id'));
 
-            \DBUtil::create_table('accounts_avatars', array(
+      \DBUtil::create_table('accounts_avatars', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
             'account_id' => array('type' => 'int', 'constraint' => 10, 'null' => true),
             'picture' => array('type' => 'text', 'null' => true),
+        ), array('id'));
+
+      \DBUtil::create_table('accounts_group', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'label' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'permissions' => array('type' => 'text', 'null' => true),
         ), array('id'));
 
         foreach($languages as $language)
