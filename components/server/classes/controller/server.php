@@ -9,6 +9,8 @@ class Controller_Server extends \Controller
 		'js' => array()
 	);
 
+	private static $is_public_asset = false;
+
 	private function _get_type($identifier)
 	{
 		foreach (static::$serve_list as $key => $value) 
@@ -152,16 +154,18 @@ class Controller_Server extends \Controller
 
 	public function action_component()
 	{
-		$component = $this->param('component'); 
-		$file = explode('.',$this->param('file'));
-		$type = $file[1];
-		$file = $file[0];
-		$ext = $type;
+		$component = $this->param('component');
+		$file = explode('.',$this->param('file')); 
+		$type = $file[count($file)-1];
+		$file = implode('.',$file);
 
 		if($type != 'js' && $type != 'css')
 			$type = 'img';
 
-		$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file . '.' . $ext;
+		if(static::$is_public_asset)
+			$path = DOCROOT . 'assets/' . $type . '/' . $component . '/' . $file;
+		else
+			$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file;
 
 		if($type == 'img')
 			$type = $ext;
@@ -174,5 +178,11 @@ class Controller_Server extends \Controller
 			$content = file_get_contents($path);
 		
 		$this->response->body = $content;
+	}
+
+	public function action_public()
+	{
+		static::$is_public_asset = true;
+		$this->action_component();
 	}
 }

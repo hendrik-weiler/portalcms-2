@@ -5,6 +5,15 @@
 .install-container {
 	width: 800px;
 	margin:auto;
+	margin-top:200px;
+}
+
+.install-container h3 {
+	margin-bottom:10px;
+}
+
+.install-content {
+	margin-top:20px;
 }
 
 .install-steps ul {
