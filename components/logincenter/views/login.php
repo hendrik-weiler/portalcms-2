@@ -18,11 +18,12 @@
 	</script>
 </head>
 <body>
+	<?php var_dump($accounts);  ?>
 	<div class="logincenter-container">
 		<?php if(count($accounts) >= 1): ?>
-		<div class="row avatars">
+		<div class="avatars">
 			<ul class="thumbnails">
-			<?php var_dump($accounts); foreach($accounts as $account): ?>
+			<?php foreach($accounts as $account): ?>
 				<li>
 					<img class="thumbnail" src="<?php print \Uri::create('uploads/avatars/' . $account['id'] . '/big/' . $account['picture']) ?>">
 				</li>
@@ -31,15 +32,13 @@
 			</ul>
 		</div>
 		<?php endif; ?>
-		<div class="row">
-			<label><?php print __('global.username'); ?></label>
-			<input type="text" name="username" />
-			<label><?php print __('global.password'); ?></label>
-			<input type="password" name="password" />
-			<?php print \Form::hidden(\Config::get('security.csrf_token_key'), \Security::fetch_token()); ?>
-			<div class="action">
-				<button class="btn btn-primary"><?php print __('global.login'); ?></button>
-			</div>
+		<label><?php print __('global.username'); ?></label>
+		<input type="text" name="username" />
+		<label><?php print __('global.password'); ?></label>
+		<input type="password" name="password" />
+		<?php print \Form::hidden(\Config::get('security.csrf_token_key'), \Security::fetch_token()); ?>
+		<div class="action">
+			<button class="btn btn-primary"><?php print __('global.login'); ?></button>
 		</div>
 	    <?php print Helper\AjaxLoader::render('.action button:eq(0)',
 	    	false,
