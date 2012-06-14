@@ -14,7 +14,7 @@ class Language extends \Orm\Model
 		$result = array();
 
 		foreach(self::find('all') as $lang)
-			$result[$lang->id] = $lang->label;
+			$result[$lang->prefix] = $lang->label;
 
 		return $result;
 	}

@@ -97,6 +97,18 @@ class v200 implements \Install\p2migration
             'value' => array('type' => 'text', 'null' => true),
         ), array('id'));
 
+      \DBUtil::create_table('layout_group', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'name' => array('type' => 'varchar', 'constraint' => 80, 'null' => true),
+      ), array('id'));
+
+      \DBUtil::create_table('layout_data', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'group_id' => array('type' => 'varchar', 'constraint' => 80, 'null' => true),
+            'html' => array('type' => 'text', 'null' => true),
+            'creation_date' => array('type' => 'timestamp','default' => \DB::expr('CURRENT_TIMESTAMP'), 'null' => true),
+      ), array('id'));
+
 	\DBUtil::create_table('accounts', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
             'username' => array('type' => 'varchar', 'constraint' => 15, 'null' => true),

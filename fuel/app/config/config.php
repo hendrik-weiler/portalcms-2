@@ -197,7 +197,7 @@ return array(
 		 * A path must be set in module_paths for this to work.
 		 */
 		'modules'  => array(
-			'install','server','helper','db','logincenter'
+			'install','server','helper','db','logincenter','backend','lightforum'
 		),
 
 		/**

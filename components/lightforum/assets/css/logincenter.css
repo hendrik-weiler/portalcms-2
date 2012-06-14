@@ -1,0 +1,13 @@
+/*>
+	$root = DOCROOT
+<*/
+
+.logincenter-container {
+	width: 800px;
+	margin:auto;
+	margin-top:200px;
+}
+
+.avatars {
+	background: url($root/server/logincenter/pictureborder.png) bottom left repeat-x;
+}

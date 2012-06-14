@@ -14,6 +14,9 @@ class Accounts extends \Orm\Model
 		  'where' => array('session' => $session),
 		));
 
+		if($col == 'all')
+			return $account;
+
 		return $account->$col;
 	}
 }

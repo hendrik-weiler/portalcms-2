@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	@asset(bootstrap.css)
+</head>
+<body>
+	<div class="container">
+		@menu(1)
+		<div class="row">
+			@content(page,idnumber)
+		</div>
+	</div>
+</body>
+</html>

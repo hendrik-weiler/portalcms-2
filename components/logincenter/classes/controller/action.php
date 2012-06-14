@@ -14,7 +14,12 @@ class Controller_Action extends \Controller
 			'status' => 404,
 			'title'	 => 'Wrong Username or Password',
 			'message'=>	'You have typed in a wrong username or password.'
-		)
+		),
+		3 => array(
+			'status' => 200,
+			'title'	 => 'Success!',
+			'message'=>	'Logout was successful.'
+		),
 	);
 
 	private function _clear_logins($logins,$new_login)
@@ -70,6 +75,18 @@ class Controller_Action extends \Controller
 
 		$this->response->body = \Helper\AjaxLoader::response(
 			\Helper\AjaxLoader::to_r($this->_error_messages[$msg_id])
+		);
+	}
+
+	public function action_logout()
+	{
+		$session = \Session::get('current_session');
+		$account = \db\Accounts::getCol($session,'all');
+		$account->session = 'logout_' . sha1(($account->session));
+		$account->save();
+
+		$this->response->body = \Helper\AjaxLoader::response(
+			\Helper\AjaxLoader::to_r($this->_error_messages[3])
 		);
 	}
 }
