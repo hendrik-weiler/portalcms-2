@@ -5,7 +5,7 @@
  * @version    1.0
  * @author     Fuel Development Team
  * @license    MIT License
- * @copyright  2010 - 2011 Fuel Development Team
+ * @copyright  2010 - 2012 Fuel Development Team
  * @link       http://fuelphp.com
  */
 
@@ -17,8 +17,11 @@ namespace Fuel\Core;
  * @package		Fuel
  * @category	Core
  * @author      Chase "Syntaqx" Hutchins
+ *
+ * @group Core
+ * @group Num
  */
-class Tests_Num extends TestCase
+class Test_Num extends TestCase
 {
 
 	/**
@@ -53,8 +56,12 @@ class Tests_Num extends TestCase
 
 		$this->assertEquals($expected, $output);
 
+		// Get current localized decimal separator
+		$locale_conv = localeconv();
+		$decimal_point = isset($locale_conv['decimal_point']) ? $locale_conv['decimal_point'] : '.';
+
 		$output = Num::quantity('7500', 1);
-		$expected = '7.5K';
+		$expected = '7'.$decimal_point.'5K';
 
 		$this->assertEquals($expected, $output);
 	}

@@ -26,7 +26,11 @@ class Overlay
 		{
 			$filepath = APPPATH . '../../components/' . str_replace(DS,'',$dir) . '/options.json';
 			if(file_exists($filepath))
-				$data->components[] = json_decode(file_get_contents($filepath));
+			{
+				$component_data = json_decode(file_get_contents($filepath));
+				$component_data->name = str_replace(array('/',DS), '', $dir);
+				$data->components[] = $component_data;
+			}	
 		}
 	}
 }

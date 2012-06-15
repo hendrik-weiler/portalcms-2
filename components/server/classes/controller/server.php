@@ -22,6 +22,24 @@ class Controller_Server extends \Controller
 		return false;
 	}
 
+	private function _get_file_data()
+	{
+		$parts = explode('/',$_SERVER['REQUEST_URI']);
+		$type = explode('.',$parts[count($parts)-1]);
+		$type = $type[count($type)-1];
+
+		$parts2 = $parts;
+		array_pop($parts2);
+		$cache_dir = implode('_',$parts2);
+
+		return array(
+			'cache_dir' => $cache_dir,
+			'filename' => $parts[count($parts)-1],
+			'filename_no_ext' => str_replace('.' . $type, '', $parts[count($parts)-1]),
+			'extension' => $type,
+		);
+	}
+
 	public static function set_global_serve_list()
 	{
 		\Session::set('server_serve_list',static::$serve_list);
@@ -64,6 +82,8 @@ class Controller_Server extends \Controller
 		$ct['ra'] = 'audio/x-realaudio';
 		$ct['wav'] = 'audio/x-wav';
 		$ct['css'] = 'text/css';
+		$ct['sass'] = 'text/css';
+		$ct['scss'] = 'text/css';
 		$ct['zip'] = 'application/zip';
 		$ct['pdf'] = 'application/pdf';
 		$ct['doc'] = 'application/msword';
@@ -81,6 +101,7 @@ class Controller_Server extends \Controller
 		$ct['gtar'] = 'application/x-gtar';
 		$ct['gzip'] = 'application/x-gzip';
 		$ct['js'] = 'application/x-javascript';
+		$ct['coffee'] = 'application/x-javascript';
 		$ct['swf'] = 'application/x-shockwave-flash';
 		$ct['tar'] = 'application/x-tar';
 		$ct['xhtml']= 'application/xhtml+xml';
@@ -143,21 +164,30 @@ class Controller_Server extends \Controller
 						$filepath = static::$serve_list[$type][$name];
 						$type = static::_get_mimetype($filepath);
 						$this->response->set_header('Content-Type', $type);
-						$get_cache_content = Model_Cache::check($identifier,$filepath,$method);
+						$get_cache_content = Model_Cache::check($identifier,$filepath);
 						$this->response->body .= '/* ----- ' . $identifier . ' -----' . PHP_EOL;
 						$this->response->body .= $get_cache_content . PHP_EOL;
 					}
 				}
 			break;
 		}
+
+		return $this->response;
 	}
 
 	public function action_component()
 	{
 		$component = $this->param('component');
-		$file = explode('.',$this->param('file')); 
-		$type = $file[count($file)-1];
-		$file = implode('.',$file);
+
+		$file_data = $this->_get_file_data();
+		$type = $file_data['extension'];
+		$file = $file_data['filename'];
+
+		if($type == 'coffee')
+			$type = 'js';
+
+		if($type == 'sass' || $type == 'scss')
+			$type = 'css';
 
 		if($type != 'js' && $type != 'css')
 			$type = 'img';
@@ -168,21 +198,32 @@ class Controller_Server extends \Controller
 			$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file;
 
 		if($type == 'img')
-			$type = $ext;
+			$type = $file_data['extension'];
 
 		$this->response->set_header('Content-Type', $this->_get_mimetype('test.' . $type));
 
-		if($type == 'css')
-			$content = Model_Css::parse($path,'min');
+		if($type == 'img' || $type == 'js')
+		{
+			$this->response->body = file_get_contents($path);
+		}
 		else
-			$content = file_get_contents($path);
+		{
+			$this->response->body = Model_Cache::check(
+				$file,
+				$path,
+				$file_data['cache_dir'],
+				$file_data['extension']
+			);
+		}
+
+			 
 		
-		$this->response->body = $content;
+		return $this->response;
 	}
 
 	public function action_public()
 	{
 		static::$is_public_asset = true;
-		$this->action_component();
+		return $this->action_component();
 	}
 }

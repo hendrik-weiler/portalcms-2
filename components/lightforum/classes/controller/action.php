@@ -19,8 +19,8 @@ class Controller_Action extends \Controller
 
 	public function action_login_attempt()
 	{
-		$this->response->body = \Helper\AjaxLoader::response(
+		return \Response::forge(\Helper\AjaxLoader::response(
 			\Helper\AjaxLoader::to_r($this->_error_messages[$msg_id])
-		);
+		));
 	}
 }

@@ -24,6 +24,8 @@ class Controller_Logincenter extends \Controller
 
 	public function after($response)
 	{
-		$this->response->body = \View::forge('login',$this->data);
+		return \Response::forge(
+			\View::forge('login',$this->data)
+		);
 	}
 }

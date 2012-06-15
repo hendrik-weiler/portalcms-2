@@ -73,9 +73,9 @@ class Controller_Action extends \Controller
 		}
 		
 
-		$this->response->body = \Helper\AjaxLoader::response(
+		return \Response::forge(\Helper\AjaxLoader::response(
 			\Helper\AjaxLoader::to_r($this->_error_messages[$msg_id])
-		);
+		));
 	}
 
 	public function action_logout()
@@ -85,8 +85,8 @@ class Controller_Action extends \Controller
 		$account->session = 'logout_' . sha1(($account->session));
 		$account->save();
 
-		$this->response->body = \Helper\AjaxLoader::response(
+		return \Response::forge(\Helper\AjaxLoader::response(
 			\Helper\AjaxLoader::to_r($this->_error_messages[3])
-		);
+		));
 	}
 }

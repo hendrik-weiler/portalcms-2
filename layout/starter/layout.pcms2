@@ -2,13 +2,13 @@
 <html>
 <head>
 	<title></title>
-	@asset(bootstrap.css)
+	@asset
 </head>
 <body>
 	<div class="container">
-		@menu(1)
+		@menu
 		<div class="row">
-			@content(page,idnumber)
+			@content
 		</div>
 	</div>
 </body>

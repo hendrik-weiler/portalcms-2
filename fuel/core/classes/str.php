@@ -6,7 +6,7 @@
  * @version    1.0
  * @author     Fuel Development Team
  * @license    MIT License
- * @copyright  2010 - 2011 Fuel Development Team
+ * @copyright  2010 - 2012 Fuel Development Team
  * @link       http://fuelphp.com
  */
 
@@ -37,6 +37,18 @@ class Str
 		$tags = array();
 		if ($is_html)
 		{
+			// Handle special characters.
+			preg_match_all('/&[a-z]+;/i', strip_tags($string), $matches, PREG_OFFSET_CAPTURE | PREG_SET_ORDER);
+			foreach ($matches as $match)
+			{
+				if ($match[0][1] >= $limit)
+				{
+					break;
+				}
+				$limit += (static::length($match[0][0]) - 1);
+			}
+
+			// Handle all the html tags.
 			preg_match_all('/<[^>]+>([^<]*)/', $string, $matches, PREG_OFFSET_CAPTURE | PREG_SET_ORDER);
 			foreach ($matches as $match)
 			{
@@ -305,7 +317,8 @@ class Str
 
 			foreach ($array as $from => $to)
 			{
-				$tr_arr[':'.$from] = $to;
+				substr($from, 0, 1) !== ':' and $from = ':'.$from;
+				$tr_arr[$from] = $to;
 			}
 			unset($array);
 

@@ -135,6 +135,6 @@ class Controller_Install extends \Controller
 
 	public function after($response)
 	{
-		$this->response->body = \View::forge('layout',$this->data);
+		return \Response::forge(\View::forge('layout',$this->data));
 	}
 }

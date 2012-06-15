@@ -11,7 +11,8 @@
 		print Asset::js('ajax_load.js');
 		print \Helper\JsVarBase::render();
 	?>
-	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/logincenter/logincenter.css'); ?>">
+	<script src="<?php print Uri::create('server/component/logincenter/login.coffee'); ?>"></script>
+	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/logincenter/logincenter.sass'); ?>">
 	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/public/redmond/jquery-ui-1.8.19.custom.css'); ?>">
 	<script type="text/javascript">
 	var logins = [];
@@ -28,7 +29,7 @@
 			<button class="btn btn-primary"><?php print __('global.login'); ?></button>
 		</div>
 	    <?php print Helper\AjaxLoader::render('.action button:eq(0)',
-	    	false,
+	    	\Logincenter\Helper::login_redirect_url(),
 	    	\Uri::create('logincenter/action/login_attempt'),
 	    	'username->input[name=username],pass->input[name=password],fuel_csrf_token->input[name=fuel_csrf_token]'); ?>
 	</div>

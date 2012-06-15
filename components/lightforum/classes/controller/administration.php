@@ -23,6 +23,6 @@ class Controller_Administration extends \Controller
 
 	public function after($response)
 	{
-		$this->response->body = \View::forge('backend::overlay',$this->data);
+		return \Response::forge(\View::forge('backend::overlay',$this->data));
 	}
 }

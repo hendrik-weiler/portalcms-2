@@ -117,6 +117,7 @@ class Controller_Action extends \Controller
 			\File::create(DOCROOT . '../components/install','step1.bak',json_encode($content));
 		else
 			\File::update(DOCROOT . '../components/install','step1.bak',json_encode($content));
+
 	}
 
 	public function action_check_login()
@@ -144,7 +145,7 @@ class Controller_Action extends \Controller
 			$this->_write_database_files($dev_user,$dev_pass,$prod_user,$prod_pass,$db);
 		}
 
-		$this->response->body = \Helper\AjaxLoader::response($response);
+		return \Response::forge(\Helper\AjaxLoader::response($response));
 	}
 
 	public function action_update_database()
@@ -168,7 +169,7 @@ class Controller_Action extends \Controller
 		$dbv->value = $updates;
 		$dbv->save();
 
-		print json_encode($result);
+		return \Response::forge(json_encode($result));
 	}
 
 	public function action_create_account()
@@ -216,7 +217,7 @@ class Controller_Action extends \Controller
 			$response = \Helper\AjaxLoader::to_r($this->_error_messages[4]);
 		}
 
-		$this->response->body = \Helper\AjaxLoader::response($response);
+		return \Response::forge(\Helper\AjaxLoader::response($response));
 	}
 
 	public function action_upload_picture()
@@ -269,7 +270,7 @@ class Controller_Action extends \Controller
 				    ->crop_resize(32, 32)
 				    ->save($pathes['small']);
 
-		    print json_encode(
+		    return \Response::forge( json_encode(
 				array(
 		    		'original'=>\Uri::create('uploads/avatars/' . $next . '/original/' . $file[0]['saved_as']),
 		    		'big'=>\Uri::create('uploads/avatars/' . $next . '/big/' . $file[0]['saved_as']),
@@ -278,7 +279,7 @@ class Controller_Action extends \Controller
 		    		'filename' => $file[0]['saved_as'],
 		    		'account_num' => $next
 			    )
-		    );
+		    ));
 		}
 	}
 
@@ -286,8 +287,8 @@ class Controller_Action extends \Controller
 	{
 		\File::create(DOCROOT . '../','DISABLE_INSTALL_TOOL','This file disables the install tool');
 
-		$this->response->body = \Helper\AjaxLoader::response(
+		return \Response::forge(\Helper\AjaxLoader::response(
 			\Helper\AjaxLoader::to_r($this->_error_messages[7])
-		);
+		));
 	}
 }

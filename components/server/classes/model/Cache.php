@@ -29,33 +29,55 @@ class Model_Cache
 		return implode('',$newFile);
 	}
 
-	private static function _check_up_cache($file,$rootFile)
+	private static function _check_up_cache($file,$rootFile,$cache_dir,$parser_type)
 	{
 		if(!is_dir(APPPATH . 'cache/_server')) mkdir(APPPATH . 'cache/_server');
+		if(!is_dir(APPPATH . 'cache/_server/' . $cache_dir)) mkdir(APPPATH . 'cache/_server/' . $cache_dir);
 
-		$path = APPPATH . 'cache/_server/';
-		$filename =  $file . '.cache';
+		$path = APPPATH . 'cache'.DS.'_server/'.DS. $cache_dir . DS;
+		$filename =  str_replace('.', '_', $file) . '.cache';
+
+		!file_exists($path . $filename) and \File::create($path , $filename, '');
 
 		$content = (static::_minify($rootFile));
 
-		if(file_exists($path . $filename))
-		{
-			if(filemtime($path . $filename) < filemtime($rootFile))
-			{
-				\File::update($path,$filename,$content);
-			}
-		}
-		else
-		{
-			\File::create($path,$filename,$content);
-		}
+		$content_file = file_get_contents($rootFile);
 
 		$content = \File::read($path . $filename,true);
-		return ($content);
+
+		if(filemtime($path . $filename) > filemtime($rootFile) && $content != '')
+		{
+			return $content;
+		}	
+		else if($parser_type == 'coffee')
+		{
+			require APPPATH . 'vendor/CoffeeScript/Init.php';
+
+			@\CoffeeScript\Init::load();
+			\File::update($path,$filename,
+			 	\CoffeeScript\Compiler::compile($content_file)
+			);
+		}
+		else if($parser_type == 'sass' || $parser_type == 'scss')
+		{
+			@require APPPATH . 'vendor/Phamlp/sass/SassParser.php';
+			$sass = @new \SassParser(array('style'=>'compressed'));
+			$css = @$sass->toCSS($rootFile);
+
+			$url=substr(\Uri::create('/'), 0, -1);
+			$piePath = \Uri::create('assets/htc/PIE.php');
+			$css = str_replace(array('DOCROOT','PIEPATH'),array($url,$piePath),$css);
+			\File::update($path,$filename,$css);
+		}
+		else if($parser_type == 'css')
+		{
+			\File::update($path,$filename,Model_Css::parse($rootFile,'min'));
+		}
+		return \File::read($path . $filename,true);
 	}
 
-	public static function check($file,$rootFile,$method)
+	public static function check($file,$rootFile,$cache_dir,$parser_type)
 	{
-		return static::_check_up_cache($file,$rootFile,$method == 'c');
+		return static::_check_up_cache($file,$rootFile,$cache_dir,$parser_type);
 	}
 }
