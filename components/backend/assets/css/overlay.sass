@@ -1,28 +1,38 @@
-.head
-	height:80px
-	background: #0083cc;
-	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#0083cc), to(#0058cc))
-	background: -webkit-linear-gradient(#0083cc, #0058cc)
-	background: -moz-linear-gradient(#0083cc, #0058cc)
-	background: -ms-linear-gradient(#0083cc, #0058cc)
-	background: -o-linear-gradient(#0083cc, #0058cc)
-	background: linear-gradient(#0083cc, #0058cc)
-	-pie-background: linear-gradient(#0083cc, #0058cc)
+=gradient($from, $to)
+	background: $from
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from($from), to($to))
+	background: -webkit-linear-gradient($from, $to)
+	background: -moz-linear-gradient($from, $to)
+	background: -ms-linear-gradient($from, $to)
+	background: -o-linear-gradient($from, $to)
+	background: linear-gradient($from, $to)
+	-pie-background: linear-gradient($from, $to)
 	behavior: url(PIEPATH)
+
+
+body
+	background: #fff
+	padding-top:5px
+
+.container
+	width:1200px
+
+.head
+	margin:auto
+	height:80px
+	width:1200px
 
 .account
 	width: 200px
-	padding-top:3px
-	padding-bottom:2px
-	background: #555555
-	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#555555), to(#333333))
-	background: -webkit-linear-gradient(#555555, #333333)
-	background: -moz-linear-gradient(#555555, #333333)
-	background: -ms-linear-gradient(#555555, #333333)
-	background: -o-linear-gradient(#555555, #333333)
-	background: linear-gradient(#555555, #333333)
-	-pie-background: linear-gradient(#555555, #333333)
-	behavior: url(PIEPATH)
+	border-radius: 10px 0 0 10px
+	border-top:1px solid #d2d2d2
+	padding-top:6px
+	padding-bottom:5px
+	padding-left:5px
+	+gradient(#555555,#333333)
+
+.arrow
+	background: url(DOCROOT/server/component/backend/backend-arrow.png) top right no-repeat
 
 .avatar_pic
 	float:left
@@ -33,9 +43,8 @@
 		background: white
 
 .avatar_content
-	float:left
-	width: 95px
-	background: url(DOCROOT/server/component/backend/backend-arrow.png) top right no-repeat
+	float:right
+	width: 110px
 
 	h4
 		font-size:18px
@@ -54,11 +63,28 @@
 	a:hover
 		color: #fff
 
+.main_nav
+	border-top:1px solid #8bd4ff
+	float:left
+	height:80px
+	margin:0 !important
+	padding-top:6px
+	border-radius: 0 10px 10px 0
+	+gradient(#0083cc,#0058cc)
+
+.active2
+	color: #fff !important
+
 .main_nav ul
 	list-style:none
+	margin:0
+	padding:0
+	padding-right:25px
+
+	li
+		display:inline
 
 	li a
-		float:left
 		display:block
 		color: white
 		font-size:20px
@@ -66,12 +92,7 @@
 		padding:30px
 
 	.active
-		background: #3379d6;
-		background: -webkit-gradient(linear, 0 0, 0 bottom, from(#3379d6), to(#339cd6))
-		background: -webkit-linear-gradient(#3379d6, #339cd6)
-		background: -moz-linear-gradient(#3379d6, #339cd6)
-		background: -ms-linear-gradient(#3379d6, #339cd6)
-		background: -o-linear-gradient(#3379d6, #339cd6)
-		background: linear-gradient(#3379d6, #339cd6)
-		-pie-background: linear-gradient(#3379d6, #339cd6)
-		behavior: url(PIEPATH)
+		+gradient(#3379d6,#339cd6)
+
+.body
+	padding:18px

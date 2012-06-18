@@ -202,12 +202,13 @@ class Controller_Server extends \Controller
 
 		$this->response->set_header('Content-Type', $this->_get_mimetype('test.' . $type));
 
-		if($type == 'img' || $type == 'js')
+		if($type == 'js' || in_array($type,array('png','jpg','gif')))
 		{
 			$this->response->body = file_get_contents($path);
 		}
 		else
 		{
+			$this->response->set_header('Content-Type', $this->_get_mimetype('test.' . $type));
 			$this->response->body = Model_Cache::check(
 				$file,
 				$path,

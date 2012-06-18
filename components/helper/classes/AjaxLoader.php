@@ -20,59 +20,96 @@ class AjaxLoader
 		';
 	}
 
-	protected static function _build_js($selector,$redirect,$path,$params)
+	protected static function _build_js($selector,$redirect,$path)
 	{
-		$params = preg_replace('/\n|\r\n|\r/','',$params);
 		$js = '';
 		$js .= '
 		<script type="text/javascript">
 			$("#ajax_load_' . static::$_instances . '").hide().find("i").hide();
-			$("' . $selector . '").live("click",function() {
+			$("' . $selector . '").submit(function(e) {
+				e.preventDefault();
 				var ajax_load_selector = "#ajax_load_' . static::$_instances . '";
 				$(ajax_load_selector).show();
-				$.getJSON("' . $path . '",ajax_load_gen_params("' . $params .'"),function(data) {
-					var ajax_load_class;
+				$.ajax({
+				  type: "POST",
+				  url: "' . $path . '",
+				  dataType: "json",
+				  data: { ajax_data : $(this).serializeArray() },
+				  success: function(data) {
+						var ajax_load_class;
 
-					if(data.status == 404)
-					{
-						ajax_load_class = "ui-state-error";
-						ajax_load_icon = "ui-icon-alert";
-					}
+						if(data.status == 404)
+						{
+							ajax_load_class = "ui-state-error";
+							ajax_load_icon = "ui-icon-alert";
+						}
 
-					if(data.status == 200)
-					{
-						ajax_load_class = "ui-state-highlight";
-						ajax_load_icon = "ui-icon-info";
-					}
+						if(data.status == 200)
+						{
+							ajax_load_class = "ui-state-highlight";
+							ajax_load_icon = "ui-icon-info";
+						}
 
-					$(ajax_load_selector)[0].className = "ui-corner-all";
-					$(ajax_load_selector).addClass(ajax_load_class);
-					$(ajax_load_selector).find("img").hide();
-					$(ajax_load_selector).find("span")[0].className = "ui-icon";
-					$(ajax_load_selector).find("span").addClass(ajax_load_icon).show();
-					$(ajax_load_selector).find("strong").html(data.title);
-					$(ajax_load_selector).find("p").html(data.message);
-					$(ajax_load_selector).delay(10000).fadeOut(1000,function() {
+						$(ajax_load_selector)[0].className = "ui-corner-all";
+						$(ajax_load_selector).addClass(ajax_load_class);
+						$(ajax_load_selector).find("img").hide();
+						$(ajax_load_selector).find("span")[0].className = "ui-icon";
+						$(ajax_load_selector).find("span").addClass(ajax_load_icon).show();
+						$(ajax_load_selector).find("strong").html(data.title);
+						$(ajax_load_selector).find("p").html(data.message);
+						$(ajax_load_selector).delay(10000).fadeOut(1000,function() {
 						$("#ajax_load_' . static::$_instances . '")
-							.removeClass(ajax_load_class)
-							.addClass("btn-info")
-							.find("h3")
-							.html("Loading...")
-							.parents()
-							.find("p")
-							.html("");
-					});
-
+								.removeClass(ajax_load_class)
+								.addClass("btn-info")
+								.find("h3")
+								.html("Loading...")
+								.parents()
+								.find("p")
+								.html("");
+						});
+					}
 					';
 					if($redirect != false)
-						$js .= 'if(data.status == 200) window.location.href = "' . $redirect . '";';
+						#$js .= 'if(data.status == 200) window.location.href = "' . $redirect . '";';
 		$js .= '
-				});
+				})
 			});
 		</script>
 		';
 
 		return $js;
+	}
+
+	public static function get_input()
+	{
+		$data = array();
+		$data['ajax_call'] = false;
+
+		if(isset($_POST['ajax_data']))
+		{
+			$data['ajax_call'] = true;
+			foreach ($_POST['ajax_data'] as $key => $value) 
+				$data[$value['name']] = $value['value'];
+		}
+		else
+		{
+			$data = $_POST;
+		}
+
+		return $data;
+	}
+
+	public static function get_response($input, $response)
+	{
+		if($input['ajax_call'])
+		{
+			return \Response::forge(\Helper\AjaxLoader::response($response));	
+		}
+		else
+		{
+			!isset($input['_redirect']) and $input['_redirect'] = '';
+			return \Response::redirect($input['_redirect']);
+		}
 	}
 
 	public static function to_r(Array $response_array)
@@ -101,12 +138,12 @@ class AjaxLoader
 		));
 	}
 
-	public static function render($selector,$redirect,$path,$params)
+	public static function render($selector,$redirect,$path)
 	{
 		++static::$_instances;
 		$html = '';
 		$html .= static::_build_html();
-		$html .= static::_build_js($selector,$redirect,$path,$params);
+		$html .= static::_build_js($selector,$redirect,$path);
 
 		return $html;
 	}

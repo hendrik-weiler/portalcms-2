@@ -1,3 +1,5 @@
+<?php print Form::open(array('action'=>'install/action/check_login','class'=>'install1')); ?>
+	<?php print Form::hidden('_redirect',\Uri::create('install/2')); ?>
 	<div class="row">
 		<div class="span4">
 			<h3><?php print __('1.develop_label') ?></h3>
@@ -25,8 +27,10 @@
     <div class="form-actions">
     	<button type="submit" class="btn btn-primary"><?php print __('global.next') ?></button>
     </div>
-    <?php print Helper\AjaxLoader::render('.form-actions button:eq(0)',
-    	\Uri::create('install/2'),
-    	\Uri::create('install/action/check_login'),
-    	'dev_user->input[name=dev_user],dev_pass->input[name=dev_pass],
-    	 prod_user->input[name=prod_user],prod_pass->input[name=prod_pass],db->input[name=database]'); ?>
+    <?php 
+    	print Helper\AjaxLoader::render('.install1',
+	    	\Uri::create('install/2'),
+	    	\Uri::create('install/action/check_login')
+    	); 
+    ?>
+<?php print Form::close(); ?>

@@ -1,0 +1,10 @@
+{
+	"label" : {
+		"default" : "Settings",
+		"de" : "Einstellungen",
+		"en" : "Settings"
+	},
+	"nav_url" : "administration",
+	"nav_visible" : false,
+	"type" : "form"
+}

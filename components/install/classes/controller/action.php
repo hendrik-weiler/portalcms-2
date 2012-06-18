@@ -122,11 +122,12 @@ class Controller_Action extends \Controller
 
 	public function action_check_login()
 	{
-		$dev_user = \Input::get('dev_user');
-		$dev_pass = \Input::get('dev_pass');
-		$prod_user = \Input::get('prod_user');
-		$prod_pass = \Input::get('prod_pass');
-		$db = \Input::get('db');
+		$input = \Helper\AjaxLoader::get_input();
+		$dev_user = $input['dev_user'];
+		$dev_pass = $input['dev_pass'];
+		$prod_user = $input['prod_user'];
+		$prod_pass = $input['prod_pass'];
+		$db = $input['database'];
 
 		$response = \Helper\AjaxLoader::to_r($this->_error_messages[1]);
 
@@ -145,7 +146,7 @@ class Controller_Action extends \Controller
 			$this->_write_database_files($dev_user,$dev_pass,$prod_user,$prod_pass,$db);
 		}
 
-		return \Response::forge(\Helper\AjaxLoader::response($response));
+		return \Helper\AjaxLoader::get_response($input, $response);
 	}
 
 	public function action_update_database()

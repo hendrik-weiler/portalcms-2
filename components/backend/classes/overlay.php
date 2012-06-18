@@ -5,6 +5,14 @@ namespace Backend;
 class Overlay
 {
 
+	public static function init(&$data)
+	{
+		\Backend\Overlay::set_language();
+		\Backend\Overlay::set_account($data);
+		\Backend\Overlay::set_components($data); 
+		\Backend\Overlay::set_content_view($data);
+	}
+
 	public static function set_language()
 	{
 		\Lang::load('backend::overlay');
@@ -32,5 +40,11 @@ class Overlay
 				$data->components[] = $component_data;
 			}	
 		}
+	}
+
+	public static function set_content_view(&$data)
+	{
+		$function = \Uri::segment(3);
+		$data->view = empty($function) ? 'index' : $function;
 	}
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lightforum;
+namespace Settings;
 
 class Controller_Administration extends \Controller
 {
@@ -9,9 +9,8 @@ class Controller_Administration extends \Controller
 
 	public function before()
 	{
-
 		$this->data = new \stdClass;
-		\Lang::load('lightforum');
+		\Lang::load('settings');
 		\Backend\Overlay::init($this->data);
 	}
 

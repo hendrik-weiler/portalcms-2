@@ -4,5 +4,7 @@
 		"de" : "Simples Forum",
 		"en" : "Lightforum"
 	},
-	"nav_url" : "administration"
+	"nav_url" : "administration",
+	"nav_visible" : true,
+	"type" : "form"
 }
