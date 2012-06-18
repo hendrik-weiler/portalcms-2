@@ -20,18 +20,26 @@
 </head>
 <body>
 	<div class="logincenter-container">
+<?php print Form::open(array('action'=>'logincenter/action/login_attempt','class'=>'logincenter')); ?>
+	<?php print Form::hidden('_redirect',\Logincenter\Helper::login_redirect_url()); ?>
+	<?php print Form::hidden('_current',\Uri::create('logincenter')); ?>
 		<label><?php print __('global.username'); ?></label>
 		<input type="text" name="username" />
 		<label><?php print __('global.password'); ?></label>
 		<input type="password" name="password" />
 		<?php print \Form::hidden(\Config::get('security.csrf_token_key'), \Security::fetch_token()); ?>
 		<div class="action">
-			<button class="btn btn-primary"><?php print __('global.login'); ?></button>
+			<input type="submit" class="btn btn-primary" value="<?php print __('global.login'); ?>">
 		</div>
-	    <?php print Helper\AjaxLoader::render('.action button:eq(0)',
-	    	\Logincenter\Helper::login_redirect_url(),
-	    	\Uri::create('logincenter/action/login_attempt'),
-	    	'username->input[name=username],pass->input[name=password],fuel_csrf_token->input[name=fuel_csrf_token]'); ?>
+	        <?php 
+		    	print Helper\AjaxLoader::render(
+		    		'.logincenter',
+		    		__('messages'),
+			    	\Logincenter\Helper::login_redirect_url(),
+			    	\Uri::create('logincenter/action/login_attempt')
+		    	); 
+		    ?>
+		<?php print Form::close(); ?>
 	</div>
 </body>
 </html>

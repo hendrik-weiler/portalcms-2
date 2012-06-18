@@ -1,5 +1,6 @@
 <?php print Form::open(array('action'=>'install/action/check_login','class'=>'install1')); ?>
 	<?php print Form::hidden('_redirect',\Uri::create('install/2')); ?>
+	<?php print Form::hidden('_current',\Uri::create('install/1')); ?>
 	<div class="row">
 		<div class="span4">
 			<h3><?php print __('1.develop_label') ?></h3>
@@ -25,10 +26,12 @@
 		</div>
 	</div>
     <div class="form-actions">
-    	<button type="submit" class="btn btn-primary"><?php print __('global.next') ?></button>
+    	<input type="submit" class="btn btn-primary" value="<?php print __('global.next') ?>" />
     </div>
     <?php 
-    	print Helper\AjaxLoader::render('.install1',
+    	print Helper\AjaxLoader::render(
+    		'.install1',
+    		__('messages'),
 	    	\Uri::create('install/2'),
 	    	\Uri::create('install/action/check_login')
     	); 

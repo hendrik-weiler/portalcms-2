@@ -11,6 +11,7 @@ class Helper
 		{
 			if(is_dir(DOCROOT . '../components/' . $dir))
 			{
+				$dir = str_replace('\\', '', $dir);
 				if(file_exists(DOCROOT . '../components/' . $dir . '/options.json'))
 				{
 					return \Uri::create($dir . '/administration');

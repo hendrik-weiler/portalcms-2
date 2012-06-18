@@ -18,6 +18,7 @@ class Controller_Install extends \Controller
 		$this->data = new \stdClass;
 		$this->data->step = (\Uri::segment(2) == '') ? 1 : \Uri::segment(2);
 		\Lang::load('layout');
+		\Lang::load('messages');
 
 		$this->data->title = 'PortalCMS 2 - Installation ' . $this->data->step . '/4';
 	}

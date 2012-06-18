@@ -4,46 +4,6 @@ namespace Install;
 
 class Controller_Action extends \Controller
 {
-	private $_error_messages = array(
-		1 => array(
-			'status' => 200,
-			'title'	 => 'Successful',
-			'message'=>	'Everything went fine!'
-		),
-		2 => array(
-			'status' => 404,
-			'title'	 => 'Wrong Username or Password',
-			'message'=>	'You have typed in a wrong username or password.<br />Usually its 
-			<code>username:root
-			password:root or empty</code>'
-		),
-		3 => array(
-			'status' => 404,
-			'title'	 => 'Database doenst exist.',
-			'message'=>	'The database name you have entered is invalid.'
-		),
-		4 => array(
-			'status' => 404,
-			'title'	 => 'Password doenst match',
-			'message'=>	'One of the passwords doenst match.'
-		),
-		5 => array(
-			'status' => 404,
-			'title'	 => 'No Avatar selected',
-			'message'=>	'You have not yet selected an avatar'
-		),
-		6 => array(
-			'status' => 404,
-			'title'	 => 'Too short!',
-			'message'=>	'Username and password have to be atleast 4 characters length'
-		),
-		7 => array(
-			'status' => 200,
-			'title'	 => 'Successful',
-			'message'=>	'Install tool disabled successfully.'
-		),
-	);
-
 	private function _delete_trash_images($id,$image)
 	{
 		$folder = \File::read_dir(DOCROOT . 'uploads/avatars/' . $id . '/original',true);
@@ -120,6 +80,11 @@ class Controller_Action extends \Controller
 
 	}
 
+	public function before()
+	{
+		\Lang::load('messages');
+	}
+
 	public function action_check_login()
 	{
 		$input = \Helper\AjaxLoader::get_input();
@@ -129,17 +94,24 @@ class Controller_Action extends \Controller
 		$prod_pass = $input['prod_pass'];
 		$db = $input['database'];
 
-		$response = \Helper\AjaxLoader::to_r($this->_error_messages[1]);
+		$response = \Helper\AjaxLoader::to_r(__('messages.1'));
+
+		$status = true;
 
 		$link = @mysql_connect('localhost',$dev_user, $dev_pass);
-		$db_query = mysql_query("CREATE DATABASE IF NOT EXISTS " . $db . ";");
+
+		if($link)
+			$db_query = mysql_query("CREATE DATABASE IF NOT EXISTS " . $db . ";",$link);
+
 		if (!$link) 
 		{
-		    $response = \Helper\AjaxLoader::to_r($this->_error_messages[2]);
+			$input['error_code'] = 2;
+		    $response = \Helper\AjaxLoader::to_r(__('messages.2'));
 		}
 		else if(!$db_query)
 		{
-			$response = \Helper\AjaxLoader::to_r($this->_error_messages[3]);
+			$input['error_code'] = 3;
+			$response = \Helper\AjaxLoader::to_r(__('messages.3'));
 		}
 		else
 		{
@@ -151,77 +123,129 @@ class Controller_Action extends \Controller
 
 	public function action_update_database()
 	{
-		$updates = \Input::get('update');
-		
-		$class = '\\Install\\Migration\\v' . str_replace('.php', '', str_replace('.','',$updates));
-		$migration = new $class();
-		$migration->update(\db\Language::getLanguagesDatabaseUpdate());
+		$input = \Helper\AjaxLoaderProgress::get_input();
 
-		$result = array('status'=>true);
+		function migrate($updates)
+		{
+			$class = '\\Install\\Migration\\v' . str_replace('.php', '', str_replace('.','',$updates));
+			$migration = new $class();
+			$migration->update(\db\Language::getLanguagesDatabaseUpdate());
+		}
 
-		$dbu = \db\Option::getKey('database_updates');
-		$value = json_decode($dbu->value);
-		array_push($value, $updates);
+		if($input['ajax_call'])
+		{
+			$updates = $input['update'];
 
-		$dbu->value = json_encode(array_unique($value));
-		$dbu->save();
+			migrate($updates);
+			$result = array('status'=>true);
 
-		$dbv = \db\Option::getKey('database_version');
-		$dbv->value = $updates;
-		$dbv->save();
+			$dbu = \db\Option::getKey('database_updates');
+			$value = json_decode($dbu->value);
+			array_push($value, $updates);
 
-		return \Response::forge(json_encode($result));
+			$dbu->value = json_encode(array_unique($value));
+			$dbu->save();
+
+			$dbv = \db\Option::getKey('database_version');
+			$dbv->value = $updates;
+			$dbv->save();
+		}
+		else
+		{
+			$version_updates = json_decode($input['in_progress']);
+			foreach ($version_updates as $value) 
+				migrate($value);
+
+			$dbu = \db\Option::getKey('database_updates');
+			$value = json_decode($dbu->value);
+			$value = $value + $version_updates;
+
+			$dbu->value = json_encode(array_unique($value));
+			$dbu->save();
+
+			$dbv = \db\Option::getKey('database_version');
+			$dbv->value = $version_updates[count($version_updates)-1];
+			$dbv->save();
+		}
+
+		return \Helper\AjaxLoaderProgress::get_response($input, json_encode($result));
 	}
 
 	public function action_create_account()
 	{
-		$avatar_source = \Input::get('avatar_source');
+		$input = \Helper\AjaxLoaderProgress::get_input();
+		$avatar_source = $input['avatar_source'];
 		$avatar_source = empty($avatar_source) ? ';' : $avatar_source;
 		$avatar_source = explode(';', $avatar_source);
 		$image = $avatar_source[0];
 		$id = $avatar_source[1];
 
-		$username = \Input::get('username');
-		$password = \Input::get('pass');
-		$password_repeat = \Input::get('pass_repeat');
+		$username = $input['username'];
+		$password = $input['password'];
+		$password_repeat = $input['password_repeat'];
 
 		$username = str_replace(' ','_',$username);
 
-		if(empty($image) || empty($id))
+		if($input['ajax_call'])
 		{
-			$response = \Helper\AjaxLoader::to_r($this->_error_messages[5]);
-		}
-		else if(strlen($username) < 4 || strlen($password) < 4)
-		{
-			$response = \Helper\AjaxLoader::to_r($this->_error_messages[6]);	
-		}
-		else if($password == $password_repeat)
-		{
-			$account = new \db\Accounts();
-			$account->username = $username;
-			$account->password = sha1($password);
-			$account->language = 'en';
-			$account->session = 'logout_' . sha1($password) . sha1($username);
-			$account->group = 1;
-			$account->save();
-
-			$avatar = new \db\AccountsAvatars();
-			$avatar->account_id = \db\Accounts::find('last')->id;
-			$avatar->picture = $image;
-			$avatar->save();
-
-			$this->_delete_trash_images($id,$image);
-			$response = \Helper\AjaxLoader::to_r($this->_error_messages[1]);
+			if(empty($image) || empty($id))
+			{
+				$input['error_code'] = 5;
+				$response = \Helper\AjaxLoader::to_r(__('messages.5'));
+				return \Helper\AjaxLoader::get_response($input, $response);
+			}
 		}
 		else
 		{
-			$response = \Helper\AjaxLoader::to_r($this->_error_messages[4]);
+			if(count(\Upload::get_files()) == 0)
+			{
+				$input['error_code'] = 5;
+				return \Helper\AjaxLoader::get_response($input, $response);
+			}
 		}
 
-		return \Response::forge(\Helper\AjaxLoader::response($response));
+		if(strlen($username) < 4 || strlen($password) < 4)
+		{
+			$input['error_code'] = 6;
+			$response = \Helper\AjaxLoader::to_r(__('messages.6'));
+			return \Helper\AjaxLoader::get_response($input, $response);	
+		}
+
+		if($password != $password_repeat)
+		{
+			$input['error_code'] = 5;
+			$response = \Helper\AjaxLoader::to_r(__('messages.5'));
+			return \Helper\AjaxLoader::get_response($input, $response);
+		}
+
+		$account = new \db\Accounts();
+		$account->username = $username;
+		$account->password = sha1($password);
+		$account->language = 'en';
+		$account->session = 'logout_' . sha1($password) . sha1($username);
+		$account->group = 1;
+		$account->save();
+
+		if(!$input['ajax_call'])
+		{	
+			$avatar = $this->action_upload_picture($input);
+			$avatar = json_decode($avatar->body,true);
+			$id = $avatar['account_num'];
+			$image = $avatar['filename'];
+		}
+
+		$avatar = new \db\AccountsAvatars();
+		$avatar->account_id = \db\Accounts::find('last')->id;
+		$avatar->picture = $image;
+		$avatar->save();
+
+		$this->_delete_trash_images($id,$image);
+		$response = \Helper\AjaxLoader::to_r(__('messages.1'));
+
+		return \Helper\AjaxLoader::get_response($input, $response);
 	}
 
-	public function action_upload_picture()
+	public function action_upload_picture($input=array())
 	{
 		$last = \DB::query("SHOW TABLE STATUS LIKE 'accounts'", \DB::SELECT)->execute()->as_array();
 		$next = 0;
@@ -229,6 +253,9 @@ class Controller_Action extends \Controller
 			$next = 1;
 		else
 			$next = $last[0]['Auto_increment'];
+
+		if(isset($input['ajax_call']) && !$input['ajax_call'])
+			$next -= 1;
 
 		$config = array(
 		    'path' => DOCROOT.DS.'uploads/avatars/' . $next . '/original',
@@ -286,10 +313,17 @@ class Controller_Action extends \Controller
 
 	public function action_disable_install_tool()
 	{
+		$input = \Helper\AjaxLoaderProgress::get_input();
+
 		\File::create(DOCROOT . '../','DISABLE_INSTALL_TOOL','This file disables the install tool');
 
-		return \Response::forge(\Helper\AjaxLoader::response(
-			\Helper\AjaxLoader::to_r($this->_error_messages[7])
-		));
+		return \Helper\AjaxLoader::get_response($input, 
+			\Helper\AjaxLoader::to_r(__('messages.7'))
+		);
+	}
+
+	public function after($response)
+	{
+		return $response;
 	}
 }

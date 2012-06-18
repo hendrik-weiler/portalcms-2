@@ -4,23 +4,10 @@ namespace Logincenter;
 
 class Controller_Action extends \Controller
 {
-	private $_error_messages = array(
-		1 => array(
-			'status' => 200,
-			'title'	 => 'Success!',
-			'message'=>	'Login was successful.'
-		),
-		2 => array(
-			'status' => 404,
-			'title'	 => 'Wrong Username or Password',
-			'message'=>	'You have typed in a wrong username or password.'
-		),
-		3 => array(
-			'status' => 200,
-			'title'	 => 'Success!',
-			'message'=>	'Logout was successful.'
-		),
-	);
+	public function before()
+	{
+		\Lang::load('messages');
+	}
 
 	private function _clear_logins($logins,$new_login)
 	{
@@ -36,9 +23,10 @@ class Controller_Action extends \Controller
 
 	public function action_login_attempt()
 	{
-		$username = \Input::get('username');
-		$password = \Input::get('pass');
-		$token = \Input::get('fuel_csrf_token');
+		$input = \Helper\AjaxLoaderProgress::get_input();
+		$username = $input['username'];
+		$password = $input['password'];
+		$token = $input['fuel_csrf_token'];
 
 		if ( ! \Security::check_token($token))
 		{
@@ -72,10 +60,9 @@ class Controller_Action extends \Controller
 			}
 		}
 		
-
-		return \Response::forge(\Helper\AjaxLoader::response(
-			\Helper\AjaxLoader::to_r($this->_error_messages[$msg_id])
-		));
+		return \Helper\AjaxLoader::get_response($input, 
+			\Helper\AjaxLoader::to_r(__('messages.' . $msg_id))
+		);
 	}
 
 	public function action_logout()
@@ -85,8 +72,6 @@ class Controller_Action extends \Controller
 		$account->session = 'logout_' . sha1(($account->session));
 		$account->save();
 
-		return \Response::forge(\Helper\AjaxLoader::response(
-			\Helper\AjaxLoader::to_r($this->_error_messages[3])
-		));
+		return \Response::redirect('logincenter');
 	}
 }

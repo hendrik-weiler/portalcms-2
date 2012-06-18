@@ -14,6 +14,7 @@ $(function() {
 	{
 		if(result.status)
 		{
+			data.update = data[0].value;
 			var li = $('.nav-list a').find('span:contains(' + data.update + ')').parentsUntil('li').parents();
 			write_description($(li));
 			$('#current_version').html(data.update);

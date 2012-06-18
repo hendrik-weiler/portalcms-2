@@ -2,12 +2,16 @@
 	<div class="span3">
 		<h3><?php print __('3.header-acc') ?></h3>
 		<label><?php print __('3.avatar') ?></label>
-		<div id="avatar">
+		<div id="avatar" style="display:none">
 			<a class="thumbnail" style="width:96px;height:96px" href="">
 				<img src="">
 			</a>
-			<span class="hidden"></span>
 		</div>	
+<?php print Form::open(array('action'=>'install/action/create_account','enctype'=>'multipart/form-data','class'=>'install3')); ?>
+	<?php print Form::hidden('_redirect',\Uri::create('install/4')); ?>
+	<?php print Form::hidden('_current',\Uri::create('install/3')); ?>
+	<?php print Form::hidden('avatar_source','') ?>
+		<?php print Form::file('avatar',array('class'=>'avatar_upload')); ?>
 		<label><?php print __('3.user') ?></label>
 		<input type="text" name="username">
 		<p class="help-block"><?php print __('3.notice') ?></p>
@@ -30,12 +34,15 @@
 </div>
 <div class="row">
 	<div class="form-actions">
-		<button class="btn btn-primary"><?php print __('3.create') ?></button>
-		<button class="btn btn-secondary"><?php print __('global.next') ?></button>
+		<input type="submit" class="btn btn-primary" value="<?php print __('3.create') ?>">
 	</div>
 </div>
-    <?php print Helper\AjaxLoader::render('.form-actions button:eq(0)',
-    	\Uri::create('install/3'),
-    	\Uri::create('install/action/create_account'),
-    	'username->input[name=username],pass->input[name=password],
-    	 pass_repeat->input[name=password_repeat],avatar_source->#avatar span'); ?>
+    <?php 
+    	print Helper\AjaxLoader::render(
+    		'.install3',
+    		__('messages'),
+	    	\Uri::create('install/4'),
+	    	\Uri::create('install/action/create_account')
+    	); 
+    ?>
+<?php print Form::close(); ?>

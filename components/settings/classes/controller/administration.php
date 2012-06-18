@@ -2,25 +2,17 @@
 
 namespace Settings;
 
-class Controller_Administration extends \Controller
+class Controller_Administration extends \BackendController
 {
-
-	protected $data;
 
 	public function before()
 	{
-		$this->data = new \stdClass;
+		parent::before();
 		\Lang::load('settings');
-		\Backend\Overlay::init($this->data);
 	}
 
 	public function action_index()
 	{
-
-	}
-
-	public function after($response)
-	{
-		return \Response::forge(\View::forge('backend::overlay',$this->data));
+		
 	}
 }

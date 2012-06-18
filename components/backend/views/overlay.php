@@ -4,7 +4,6 @@
 	<title>Backend</title>
 	<?php print Asset::css('bootstrap.min.css') ?>
 	<?php print Asset::js('jquery-1.7.2.min.js') ?>
-	<?php print Asset::js('ajax_load.js') ?>
 	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/backend/overlay.sass'); ?>">
 </head>
 <body>
@@ -16,7 +15,7 @@
 			<div class="avatar_content arrow">
 				<h4><?php print $account->username; ?></h4>
 				<a <?php \Uri::segment(1) == 'settings' and print 'class="active2"' ?> href="<?php print \Uri::create('settings/administration') ?>"><?php print __('global.settings') ?></a>
-				<button id="logout" class="btn btn-primary"><?php print __('global.logout') ?></button>
+				<a id="logout" href="<?php print \Uri::create('logincenter/action/logout'); ?>" class="btn btn-primary"><?php print __('global.logout') ?></a>
 			</div>
 		</div>
 		<div class="main_nav">
@@ -37,9 +36,5 @@
 			<?php print \View::forge('index') ?>
 		</div>
 	</div>
-    <?php print Helper\AjaxLoader::render('#logout',
-    	\Uri::create('logincenter'),
-    	\Uri::create('logincenter/action/logout'),
-    	''); ?>
 </body>
 </html>

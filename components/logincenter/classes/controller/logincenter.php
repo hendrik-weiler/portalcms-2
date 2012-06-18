@@ -12,6 +12,7 @@ class Controller_Logincenter extends \Controller
 
 		$this->data = new \stdClass;
 		\Lang::load('login');
+		\Lang::load('messages');
 
 		$this->data->title = 'Logincenter';
 	}

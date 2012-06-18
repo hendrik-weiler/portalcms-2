@@ -7,11 +7,40 @@ class AjaxLoader
 
 	protected static $_instances = 0;
 
+	public static function _build_no_ajax_error($error)
+	{
+		switch($error['status'])
+		{
+			case 200:
+			$error_html = '<div class="ui-widget">
+				<div id="ajax_load_' . static::$_instances . '" class="ui-state-highlight ui-corner-all " style="padding:5px 10px;">
+					<span class="ui-icon ui-icon-info" style="margin-right:5px;"></span>
+					<strong>' . $error['title'] . '</strong>
+					<p>' . $error['message'] . '</p>
+				</div>
+			</div>';
+			break;
+			case 404:
+			$error_html = '<div class="ui-widget">
+				<div id="ajax_load_' . static::$_instances . '" class="ui-state-highlight ui-corner-all ui-state-error" style="padding:5px 10px;">
+					<span class="ui-icon ui-icon-alert" style="margin-right:5px;"></span>
+					<strong>' . $error['title'] . '</strong>
+					<p>' . $error['message'] . '</p>
+				</div>
+			</div>';
+			break;
+			default:
+			$error_html = '';
+			break;
+		}
+		return $error_html;
+	}
+
 	protected static function _build_html()
 	{
 		return '
 		<div class="ui-widget">
-			<div id="ajax_load_' . static::$_instances . '" class="ui-state-highlight ui-corner-all" style="padding:5px 10px;">
+			<div id="ajax_load_' . static::$_instances . '" class="ui-state-highlight ui-corner-all" style="padding:5px 10px;display:none;">
 				<img src="' . \Uri::create('/assets/img/ajax_load.gif') . '" alt="loading" />
 				<span class="ui-icon ui-icon-alert" style="margin-right:5px;"></span><strong>Loading...</strong>
 				<p></p>
@@ -66,12 +95,10 @@ class AjaxLoader
 								.parents()
 								.find("p")
 								.html("");
-						});
-					}
-					';
+						});';
 					if($redirect != false)
-						#$js .= 'if(data.status == 200) window.location.href = "' . $redirect . '";';
-		$js .= '
+						$js .= 'if(data.status == 200) window.location.href = "' . $redirect . '";';
+		$js .= '}
 				})
 			});
 		</script>
@@ -93,8 +120,10 @@ class AjaxLoader
 		}
 		else
 		{
-			$data = $_POST;
+			$data = array_merge($data,$_POST);
 		}
+
+		$data['error_code'] = 0;
 
 		return $data;
 	}
@@ -108,7 +137,10 @@ class AjaxLoader
 		else
 		{
 			!isset($input['_redirect']) and $input['_redirect'] = '';
-			return \Response::redirect($input['_redirect']);
+			if($input['error_code'] == 0)
+				return \Response::redirect($input['_redirect']);
+			else
+				return \Response::redirect($input['_current'] . '?message=' . $input['error_code']);
 		}
 	}
 
@@ -138,10 +170,14 @@ class AjaxLoader
 		));
 	}
 
-	public static function render($selector,$redirect,$path)
+	public static function render($selector,$messages,$redirect,$path)
 	{
 		++static::$_instances;
 		$html = '';
+
+		if(isset($_GET['message']))
+			$html .=  static::_build_no_ajax_error($messages[$_GET['message']]);
+
 		$html .= static::_build_html();
 		$html .= static::_build_js($selector,$redirect,$path);
 

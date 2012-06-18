@@ -2,34 +2,20 @@ Portal Content Management System
 Version 2
 ====================
 
-Build on [Fuel Framework](https://github.com/fuel/fuel)<br />
+#Very unfinished!
+
+Build on [FuelPHP Framework](https://github.com/fuel/fuel)<br />
 Using:<br />
 [Nivo-Slider](https://github.com/gilbitron/Nivo-Slider)<br />
-[elRTE](https://github.com/Studio-42/elRTE)<br />
-[elFinder](https://github.com/Studio-42/elFinder)<br />
 [colorbox](https://github.com/jackmoore/colorbox)<br />
-[html5boilerplate](https://github.com/h5bp/html5-boilerplate)<br />
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/)<br />
 [jquery.swfobject](http://jquery.thewikies.com/swfobject/)<br />
 [pie](https://github.com/lojjic/PIE)<br />
 
 Features:
 ---------------------
-* Multilanguage interface
-* Multilanguage site
-* Multi-Navigation ( with every up to 1 hirachie down)
-* News
-* Page management
-* Textcontainer ( up to 3 columns )
-* Linking to existing contents ( up to 3 columns )
-* Flash (using jquery.swfobject plugin with picture replacement)
-* Simple contactform
-* Gallery ( slideshow, thumbnail and customizeable)
-* Content Stacking ( multiple contents in 1 page )
-* Multi-Account
-* Simple Permission System
-* Module management
-* Asset management
-* Customizeable Layout
+* Haml, CoffeeScript, Sass, Scss parsing/caching
+* Extendable backend
 
 Requirements:
 ---------------------
@@ -39,9 +25,9 @@ Install
 ---------------------
 > 1. Download the files
 > 2. Extract them into your root folder on your webserver
-> 3. Install throught he install tool (http://localhost/projectname/public/admin/install)
+> 3. Install throught he install tool (http://hostname/install)
 
-Follow all three steps and login into (http://localhost/projectname/public/admin).<br />
+Follow all four steps and login into (http://hostname/logincenter).<br />
 *Notice*: you might have to create the bare database yourself.
 
 Writing CSS:
