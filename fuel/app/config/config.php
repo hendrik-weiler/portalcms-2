@@ -199,7 +199,7 @@ return array(
 		'modules'  => array(
 			'install','server','helper','db','logincenter','backend','settings','frontend',
 			# custom
-			'lightforum',
+			'lightforum','cassistant',
 		),
 
 		/**

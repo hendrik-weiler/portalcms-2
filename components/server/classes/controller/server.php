@@ -183,13 +183,13 @@ class Controller_Server extends \Controller
 		$type = $file_data['extension'];
 		$file = $file_data['filename'];
 
-		if($type == 'coffee')
-			$type = 'js';
-
 		if($type == 'sass' || $type == 'scss')
 			$type = 'css';
 
-		if($type != 'js' && $type != 'css')
+		if($type == 'coffee')
+			$type = 'js';
+
+		if(!in_array($type,array('js','css','sass','scss','coffee')))
 			$type = 'img';
 
 		if(static::$is_public_asset)
@@ -202,7 +202,7 @@ class Controller_Server extends \Controller
 
 		$this->response->set_header('Content-Type', $this->_get_mimetype('test.' . $type));
 
-		if($type == 'js' || in_array($type,array('png','jpg','gif')))
+		if($type == 'js' && $file_data['extension'] != 'coffee' || in_array($type,array('png','jpg','gif')))
 		{
 			$this->response->body = file_get_contents($path);
 		}

@@ -3590,3 +3590,2805 @@ Error - 2012-06-19 16:01:12 --> 2048 - Only variables should be passed by refere
 Error - 2012-06-19 16:01:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
 Error - 2012-06-19 16:01:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
 Error - 2012-06-19 16:01:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:03:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:03:24 --> 8 - Trying to get property of non-object in F:\web\portalcms2\components\backend\classes\helper\account.php on line 14
+Error - 2012-06-19 18:03:24 --> 8 - Trying to get property of non-object in F:\web\portalcms2\components\backend\classes\helper\account.php on line 16
+Warning - 2012-06-19 18:03:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:03:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:03:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:03:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:03:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:03:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:03:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:03:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:04:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:04:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:04:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:04:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:04:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:04:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:04:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:08:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:08:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:08:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:28 --> Error - Class 'Helper\Security' not found in F:\web\portalcms2\components\helper\classes\AjaxLoader.php on line 173
+Warning - 2012-06-19 18:14:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:14:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:14:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:51 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:51 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:14:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:14:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:15:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:15:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:15:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:15:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:15:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:15:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:16:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:16:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:16:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:16:19 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:16:19 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:16:19 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:16:19 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:16:19 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:16:20 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:21 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:16:22 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:16:22 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:16:22 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:16:22 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:16:22 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:16:22 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:16:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:16:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:16:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:16:54 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:16:54 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:16:54 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:16:54 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:16:54 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:16:55 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:16:56 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:16:56 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:16:56 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:18:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:18:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:18:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:18:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:18:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:18:35 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:18:35 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:18:35 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:18:36 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:18:37 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:18:38 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:18:38 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:18:38 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:18:38 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:18:38 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:18:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:18:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:18:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:18:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:18:45 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:18:45 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:18:45 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:18:45 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:18:45 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:18:46 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:18:46 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:18:47 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:18:48 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:18:48 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:18:48 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:20:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:20:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:20:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:20:11 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:20:11 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:20:11 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:20:11 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:20:11 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:20:11 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:20:11 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:20:12 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:20:13 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:20:14 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:20:14 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:20:14 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:20:14 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:20:14 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:20:14 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:20:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:21:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:21:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:21:00 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:21:00 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:21:00 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:21:00 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:21:00 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:21:01 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:21:02 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:21:02 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:21:02 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:22:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:22:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:22:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:22:03 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:22:03 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:22:03 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/img/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Warning - 2012-06-19 18:23:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:23:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:23:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:23:17 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/coffee/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:23:17 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:23:17 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/coffee/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:23:17 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/logincenter/assets/coffee/login.coffee in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:23:17 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:23:17 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:23:18 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:23:19 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:23:20 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:23:20 --> 8 - Undefined index: filename in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Error - 2012-06-19 18:23:20 --> Error - In , unexpected YY_TERMINATOR in unknown:1. in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\Compiler.php on line 63
+Warning - 2012-06-19 18:23:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:23:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:23:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:23:50 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/coffee/login.coffee) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:23:50 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:23:50 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/logincenter/assets/coffee/login.coffee) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Warning - 2012-06-19 18:24:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:24:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:24:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:24:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:24:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:24:47 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:24:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:24:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:25:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:25:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:25:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:25:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:25:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:25:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:25:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:25:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:25:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:25:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:26:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:26:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:26:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:26:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:26:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:26:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:29:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:03 --> 2048 - Declaration of CoffeeScript\yy_Access::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Access.php on line 29
+Error - 2012-06-19 18:29:03 --> 2048 - Declaration of CoffeeScript\yy_Arr::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Arr::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Arr.php on line 67
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Assign::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Assign::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Assign::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Assign.php on line 348
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Block::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Block.php on line 292
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Comment::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Comment::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Comment.php on line 35
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Existence::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Existence.php on line 40
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Extends::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Extends::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Extends.php on line 24
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_For::constructor() should be compatible with that of CoffeeScript\yy_While::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\For.php on line 246
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_If::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_If::unfold_soak() should be compatible with that of CoffeeScript\yy_Base::unfold_soak() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\If.php on line 159
+Error - 2012-06-19 18:29:04 --> 2048 - Declaration of CoffeeScript\yy_Index::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Index::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Index.php on line 25
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Literal::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Literal::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Literal::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Literal.php on line 94
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Obj::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Obj::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Obj.php on line 124
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Op::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Op.php on line 290
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Param::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Param.php on line 117
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Parens::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Parens.php on line 43
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Range::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Range.php on line 215
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Return::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Return.php on line 54
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Slice::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Slice.php on line 47
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Splat::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:29:05 --> 2048 - Declaration of CoffeeScript\yy_Splat::compile() should be compatible with that of CoffeeScript\yy_Base::compile() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Splat::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Splat.php on line 98
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Throw::constructor() should be compatible with that of CoffeeScript\yy_Base::constructor() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Throw::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Throw.php on line 35
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Try::make_return() should be compatible with that of CoffeeScript\yy_Base::make_return() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Try.php on line 77
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Value::assigns() should be compatible with that of CoffeeScript\yy_Base::assigns() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Error - 2012-06-19 18:29:06 --> 2048 - Declaration of CoffeeScript\yy_Value::is_statement() should be compatible with that of CoffeeScript\yy_Base::is_statement() in F:\web\portalcms2\fuel\app\vendor\CoffeeScript\yy\Value.php on line 208
+Warning - 2012-06-19 18:29:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:29:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:41 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:29:41 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:29:41 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:29:41 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:29:41 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:29:41 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:29:41 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:29:41 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:29:41 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:29:41 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:29:42 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 18:29:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:29:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:29:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:29:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:29:54 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:29:54 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:29:54 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:29:54 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:29:54 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:29:54 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:29:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:29:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:29:54 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 18:29:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:29:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:30:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:30:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:30:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:30:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:30:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:30:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:31:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:31:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:31:20 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:31:20 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:31:20 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:31:20 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:31:20 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:31:20 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:31:20 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:31:20 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:31:20 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 18:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:38:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:38:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:38:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:38:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:38:35 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:38:35 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:38:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:38:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:38:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:35 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 18:38:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:38:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:38 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:38:38 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 18:38:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:38:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:38:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:38:41 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:38:41 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:38:41 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:38:41 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:38:41 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:38:41 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:38:41 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:38:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:38:41 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:38:41 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 18:49:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:49:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:49:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:49:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:49:46 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:49:46 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:49:46 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:49:46 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:49:46 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:49:46 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:49:46 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:49:46 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:49:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:49:46 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 18:49:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:49:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:13 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:50:14 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:50:14 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:50:14 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:50:14 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:50:14 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:50:14 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:50:14 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:50:14 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:50:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:50:14 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 18:50:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:50:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:50:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:51:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:51:02 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:02 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 18:51:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:51:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:51:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:51:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:51:04 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:51:04 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:51:04 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:51:05 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:51:05 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:51:05 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:51:05 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:51:05 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:51:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:51:05 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 18:51:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:53:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:10 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:59:11 --> Error - The requested view could not be found: sample in F:\web\portalcms2\fuel\core\classes\view.php on line 381
+Warning - 2012-06-19 18:59:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:24 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:59:24 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:59:24 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:59:24 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:59:24 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:59:24 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:59:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:59:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 18:59:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:59:24 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 18:59:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 18:59:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 18:59:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 18:59:25 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 18:59:25 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 18:59:25 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 18:59:25 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 18:59:25 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 18:59:25 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 18:59:25 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:59:25 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 18:59:25 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 18:59:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 18:59:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:11:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:11:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:11:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:11:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:11:07 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:11:07 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:11:07 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:11:07 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:11:07 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:11:07 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:11:07 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:11:07 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:11:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:11:07 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:11:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:11:07 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:03 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:13:03 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:13:03 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:13:03 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:13:03 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:13:03 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:13:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:13:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:13:03 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:13:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:13:58 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:13:58 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:13:58 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:13:58 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:13:58 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:13:58 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:13:58 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:13:58 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:13:58 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:14:31 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:14:31 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:14:31 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:14:31 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:14:32 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:14:32 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:14:32 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:14:32 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:14:32 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:14:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:14:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:16:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:16:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:16:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:16:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:16:45 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:16:45 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:16:45 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:16:45 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:16:45 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:16:45 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:16:45 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:16:45 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:16:45 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:16:46 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:16:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:16:46 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:16:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:17:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:17:46 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:46 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:17:46 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:17:46 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:17:46 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:17:46 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:17:46 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:17:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:46 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:17:46 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:48 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:17:48 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 19:17:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:17:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:17:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:50 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:17:50 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:17:50 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:17:50 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:17:50 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:17:50 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:17:50 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:17:51 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:17:51 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:17:51 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:17:51 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:01 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:18:01 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 19:18:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:18:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:02 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:18:02 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:18:02 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:18:02 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:18:02 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:18:02 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:18:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:18:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:18:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:03 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:18:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:30 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:18:30 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:18:30 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:18:30 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:18:30 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:18:30 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:18:31 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:18:31 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:18:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:31 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:18:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:18:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:18:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:18:50 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:18:50 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:18:50 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:18:50 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:18:50 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:18:50 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:18:50 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:18:50 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:18:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:18:50 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:18:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:19:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:42 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:19:42 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:19:42 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:19:42 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:19:42 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:19:42 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:19:42 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:19:42 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:19:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:19:42 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:19:42 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:19:43 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:43 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:43 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:19:43 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:19:43 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:19:43 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:19:43 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:19:43 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:19:43 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:19:43 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:19:43 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:19:44 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:19:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:19:44 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:19:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:03 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:03 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:21:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:03 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 19:21:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:04 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:11 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:12 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:21:12 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:21:12 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:21:12 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:21:12 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:21:12 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:21:12 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:21:12 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:21:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:12 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:21:12 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:13 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:13 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:14 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:21:14 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 19:21:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:21:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:24 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:21:24 --> 8 - Undefined index: has_index in F:\web\portalcms2\fuel\app\classes\BackendController.php on line 35
+Warning - 2012-06-19 19:21:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:24 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:21:24 --> 8 - Undefined index: has_index in F:\web\portalcms2\fuel\app\classes\BackendController.php on line 35
+Error - 2012-06-19 19:21:24 --> Error - The requested view could not be found: sample in F:\web\portalcms2\fuel\core\classes\view.php on line 381
+Warning - 2012-06-19 19:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:35 --> 2048 - Creating default object from empty value in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:21:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:21:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:21:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:21:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:21:35 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:21:35 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:21:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:21:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:21:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:21:35 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:21:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:22:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:54 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:54 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:54 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:54 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:22:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:22:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:22:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:54 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:22:54 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:22:54 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:22:54 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:22:54 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:22:54 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:22:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:22:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:22:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:54 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:22:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:22:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:55 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:55 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:55 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:22:55 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:22:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:22:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:22:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:22:55 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:22:56 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:22:56 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:22:56 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:22:56 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:22:56 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:22:56 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:22:56 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:22:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:22:56 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:22:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:23:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:23:50 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Error - 2012-06-19 19:23:50 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Error - 2012-06-19 19:23:50 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Error - 2012-06-19 19:23:50 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Warning - 2012-06-19 19:23:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:23:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:23:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:23:50 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:23:50 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:23:50 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:23:51 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:23:51 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:23:51 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:23:51 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:23:51 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:23:51 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:23:51 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:23:51 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:25:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:25:36 --> 8 - Undefined variable: components in F:\web\portalcms2\components\backend\classes\overlay.php on line 33
+Error - 2012-06-19 19:25:36 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\backend\classes\overlay.php on line 33
+Warning - 2012-06-19 19:25:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:25:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:25:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:25:36 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:25:36 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:25:36 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:25:36 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:25:36 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:25:36 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:25:36 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:25:36 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:25:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:25:37 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:25:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:26:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:26:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:26:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:00 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:26:00 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:26:00 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:26:00 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:26:00 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:26:00 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:26:00 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:26:00 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:26:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:00 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:26:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:26:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:01 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:01 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:01 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:26:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:01 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:26:01 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:26:01 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:26:01 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:26:01 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:26:01 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:26:01 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:26:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:01 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:26:01 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:26:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:26:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:26 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:26 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:26 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:26:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:27 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:26:27 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:26:27 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:26:27 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:26:27 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:26:27 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:26:27 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:26:27 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:26:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:27 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:26:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:26:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:58 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:58 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:26:58 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:26:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:26:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:26:58 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:26:58 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:26:58 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:26:58 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:26:58 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:26:58 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:26:58 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:26:59 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:26:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:26:59 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:26:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:27:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:27:44 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Error - 2012-06-19 19:27:44 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Error - 2012-06-19 19:27:44 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 40
+Warning - 2012-06-19 19:27:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:27:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:27:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:27:44 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:27:44 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:27:44 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:27:44 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:27:44 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:27:44 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:27:44 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:27:44 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:27:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:27:44 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:27:44 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:28:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:15 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:15 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:15 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:15 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:15 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:15 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:28:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:15 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:28:15 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:28:15 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:28:15 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:28:15 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:28:16 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:28:16 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:28:16 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:28:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:16 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:28:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:28:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:35 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:35 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:35 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:28:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:28:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:28:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:28:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:28:35 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:28:35 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:28:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:28:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:28:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:35 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:28:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:28:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:36 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:36 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:36 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:36 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:36 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:36 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:28:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:28:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:28:37 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:28:37 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:28:37 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:28:37 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:28:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:28:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:28:37 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:28:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:28:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:28:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:28:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:28:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:28:37 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:28:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:28:37 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:28:37 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:28:38 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:28:38 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:28:38 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:28:38 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:28:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:28:38 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:28:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:29:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:25 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:29:25 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:29:26 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:29:26 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:29:26 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\fuel\core\classes\format.php on line 99
+Error - 2012-06-19 19:29:26 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:29:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:29:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:29:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:26 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:29:26 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:29:26 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:29:26 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:29:26 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:29:26 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:29:26 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:29:26 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:29:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:26 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:29:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:29:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:29:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:29:37 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:29:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:29:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:29:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:29:37 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:29:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:29:37 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:29:37 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:29:37 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:29:37 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:29:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:29:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:29:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:29:38 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:29:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:30:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:05 --> Error - Call to undefined method Fuel\Core\Format::to_object() in F:\web\portalcms2\components\backend\classes\overlay.php on line 38
+Warning - 2012-06-19 19:30:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:24 --> Error - Call to undefined method Fuel\Core\Format::to_object() in F:\web\portalcms2\components\backend\classes\overlay.php on line 38
+Warning - 2012-06-19 19:30:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:25 --> Error - Call to undefined method Fuel\Core\Format::to_object() in F:\web\portalcms2\components\backend\classes\overlay.php on line 38
+Warning - 2012-06-19 19:30:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:25 --> Error - Call to undefined method Fuel\Core\Format::to_object() in F:\web\portalcms2\components\backend\classes\overlay.php on line 38
+Warning - 2012-06-19 19:30:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:34 --> 8 - Trying to get property of non-object in F:\web\portalcms2\components\backend\views\overlay.php on line 35
+Error - 2012-06-19 19:30:34 --> 8 - Trying to get property of non-object in F:\web\portalcms2\components\backend\views\overlay.php on line 35
+Warning - 2012-06-19 19:30:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:30:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:30:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:30:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:30:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:30:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:30:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:30:35 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:30:35 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:30:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:30:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:30:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:30:35 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:30:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:31:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Error - 2012-06-19 19:31:00 --> 2 - Attempt to assign property of non-object in F:\web\portalcms2\components\backend\classes\overlay.php on line 39
+Warning - 2012-06-19 19:31:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:00 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:00 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:00 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:00 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:00 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:00 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:01 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:01 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:01 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:01 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:14 --> Error - The requested view could not be found: permissions in F:\web\portalcms2\fuel\core\classes\view.php on line 381
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:14 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:14 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:14 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:14 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:14 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:14 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:14 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:14 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:14 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:14 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:16 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:16 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:16 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:16 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:16 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:16 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:17 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:17 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:17 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:18 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:18 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:18 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:18 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:18 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:18 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:18 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:18 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:19 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:20 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:20 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:20 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:20 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:20 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:20 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:20 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:20 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:20 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:20 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:22 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:22 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:31:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:31:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:31:24 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:31:24 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:31:24 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:31:24 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:31:24 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:31:24 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:31:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:31:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:31:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:31:25 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:31:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:32:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:32:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:32:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:32:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:32:03 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:32:03 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:32:03 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:32:03 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:32:03 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:32:03 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:32:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:32:03 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:32:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:32:03 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/rlmaker/assets/css/rlmaker.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:32:03 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:38:25 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:25 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:26 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:30 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:33 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:33 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Error - 2012-06-19 19:38:33 --> Error - Class 'ModuleNotFoundException' not found in F:\web\portalcms2\fuel\core\classes\module.php on line 88
+Warning - 2012-06-19 19:38:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:05 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:39:05 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:39:05 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:39:05 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:39:05 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:39:05 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:39:05 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:39:05 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:39:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:39:06 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:39:06 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:39:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:39:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:39:07 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:39:07 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:39:07 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:39:07 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:39:07 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:39:07 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:39:07 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:39:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:39:08 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:39:08 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:39:08 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:40:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:40:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:40:12 --> Error - The requested view could not be found: settings in F:\web\portalcms2\fuel\core\classes\view.php on line 381
+Warning - 2012-06-19 19:40:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:40:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:40:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:40:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:40:25 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:40:25 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:40:25 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:40:25 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:40:25 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:40:25 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:40:25 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:40:25 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:40:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:40:25 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:40:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:52:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:25 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:52:25 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:52:25 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:52:25 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:52:25 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:52:25 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:52:26 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:52:26 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:52:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:26 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:52:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:52:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:28 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:52:28 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:52:28 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:52:28 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:52:28 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:52:28 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:52:28 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:52:28 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:52:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:28 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:52:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:52:29 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:52:30 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:52:30 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:52:30 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:52:30 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:52:30 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:52:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:52:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:52:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:30 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:52:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:39 --> Error - The requested view could not be found: backend::overlay_dragdropgrid in F:\web\portalcms2\fuel\core\classes\view.php on line 381
+Warning - 2012-06-19 19:52:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:52:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:52:45 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:52:45 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:52:45 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:52:45 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:52:45 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:52:45 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:52:45 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:52:45 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:52:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:52:45 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:52:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:49 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:54:49 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:54:49 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:54:50 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:54:50 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:54:50 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:54:50 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:54:50 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:54:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:50 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:54:50 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:52 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:54:52 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:54:52 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:54:52 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:54:52 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:54:52 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:54:52 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:54:52 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:54:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:52 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:54:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:54 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:54:54 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:54:54 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:54:54 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:54:54 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:54:54 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:54:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:54 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:54:54 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 19:54:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:57 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:54:57 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 19:54:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:54:59 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 19:54:59 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 19:54:59 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 19:54:59 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 19:54:59 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 19:54:59 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 19:54:59 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 19:54:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 19:54:59 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 19:54:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 19:55:00 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 19:57:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 19:59:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:00:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:00:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:00:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:00:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:00:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:04:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:05:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:12 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:13 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:09:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:46 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:10:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:30 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:30 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:30 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:30 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:30 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:30 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:30 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 20:11:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:11:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:32 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:32 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:32 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:32 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:32 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:32 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:32 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:33 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:33 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:33 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:11:33 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:34 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:34 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:34 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:34 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:34 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:34 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:34 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:34 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:11:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:35 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:35 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:35 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:35 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:35 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:35 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:35 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:36 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:36 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:11:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:11:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:37 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:37 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:37 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:37 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:37 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:37 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:37 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:37 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 20:11:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:11:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:38 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:38 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:38 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:38 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:38 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:39 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:39 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:39 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:39 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:39 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 20:11:39 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:40 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:40 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:40 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:40 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:40 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:40 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:11:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:40 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:40 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:40 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:11:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:11:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:11:56 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:11:56 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:11:56 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:11:56 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:11:56 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:11:56 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:11:57 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:57 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:11:57 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/cassistant/assets/css/cassistant.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:12:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:21 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:21 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:12:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:22 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:12:22 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:12:22 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:12:22 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:12:22 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:22 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:12:22 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:12:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:23 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:12:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:23 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:12:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:24 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:24 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:12:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:53 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:53 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:12:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:53 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:54 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:55 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:12:55 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:12:55 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:12:55 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:12:55 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:55 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:12:55 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:12:55 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:12:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:55 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 20:12:55 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:56 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:56 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:12:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:12:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:12:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:12:58 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:12:58 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:12:58 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:12:58 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:12:58 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:12:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:12:58 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:12:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:12:58 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:00 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:00 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:02 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:02 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:05 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:05 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:05 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:07 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:07 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:07 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:07 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:13:19 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:13:19 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:13:19 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:19 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:13:19 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:13:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:19 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:13:19 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:19 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:13:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:25 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:26 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:26 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:29 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:34 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:13:34 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:13:34 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:13:34 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:13:34 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:34 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:13:34 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:13:34 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:13:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:35 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Error - 2012-06-19 20:13:35 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:36 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:36 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:37 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:13:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:38 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:13:38 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:13:38 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:13:38 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:38 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:13:38 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:13:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:38 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:13:39 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:39 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:13:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:13:45 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:13:45 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:45 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:45 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:13:45 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:45 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:13:45 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:13:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:52 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:13:58 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:13:58 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:13:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:13:59 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:00 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:00 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:21 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:21 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:21 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:21 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:22 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:14:23 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:14:23 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:14:23 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:14:23 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:23 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:14:23 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:14:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:23 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:14:23 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:23 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:24 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:24 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:26 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:26 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:27 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:28 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:28 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:28 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:29 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:29 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:14:30 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:14:30 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:14:30 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:14:30 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:30 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:30 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:14:30 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:30 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:14:30 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:31 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:31 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:14:32 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:14:32 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:32 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:56 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:14:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:14:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:14:57 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Warning - 2012-06-19 20:14:57 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:14:57 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:14:57 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:02 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:15:02 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:15:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:02 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:09 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:10 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:10 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:11 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:15:11 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:15:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:11 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:18 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:15:18 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:15:18 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:18 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> 2 - file(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 10
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> 2 - Invalid argument supplied for foreach() in F:\web\portalcms2\components\server\classes\model\Cache.php on line 12
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> 2 - file_get_contents(F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in F:\web\portalcms2\components\server\classes\model\Cache.php on line 44
+Error - 2012-06-19 20:15:24 --> 2 - filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\components\server\classes\model\Cache.php on line 48
+Error - 2012-06-19 20:15:24 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:15:24 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Error - 2012-06-19 20:15:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Warning - 2012-06-19 20:15:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:24 --> 2 - dirname() expects parameter 1 to be string, array given in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 80
+Error - 2012-06-19 20:15:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:24 --> Error - Unable to find import file: F:\web\portalcms2\fuel\app\../../components/lightforum/assets/css/lightforum.sass in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\SassFile.php on line 95
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:26 --> 2048 - Declaration of SassPropertyNode::isa() should be compatible with that of SassNode::isa() in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\tree\SassPropertyNode.php on line 239
+Error - 2012-06-19 20:15:26 --> 2048 - Static function SassLiteral::isa() should not be abstract in F:\web\portalcms2\fuel\app\vendor\Phamlp\sass\script\literals\SassLiteral.php on line 358
+Warning - 2012-06-19 20:15:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-19 20:15:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-19 20:15:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-19 20:15:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-19 20:15:48 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121

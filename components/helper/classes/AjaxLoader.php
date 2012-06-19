@@ -67,6 +67,9 @@ class AjaxLoader
 				  success: function(data) {
 						var ajax_load_class;
 
+						if(data.fuel_csrf_token)
+							$("input[name=fuel_csrf_token]").attr("value",data.fuel_csrf_token);
+
 						if(data.status == 404)
 						{
 							ajax_load_class = "ui-state-error";
@@ -166,7 +169,8 @@ class AjaxLoader
 		return json_encode(array(
 			'status' => $status,
 			'title' => $title,
-			'message' => $message
+			'message' => $message,
+			'fuel_csrf_token' => \Security::fetch_token(),
 		));
 	}
 

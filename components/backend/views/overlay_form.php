@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Backend</title>
+	<title><?php print $title; ?></title>
 	<?php
 		print Asset::css('bootstrap.min.css');
 		print Asset::css('autocomplete.css');

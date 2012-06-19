@@ -28,6 +28,8 @@ class BackendController extends \AuthController
 		$this->data->group = $this->info->group;
 		$this->data->avatar = $this->info->avatar;
 
+		$this->data->title = ucfirst($this->component->name) . ' - ' . ucfirst($this->component->current_index);
+
 		\Lang::load($this->component->name . '::default');
 
 		if(!$this->component->options['has_index']
@@ -41,7 +43,28 @@ class BackendController extends \AuthController
 	{
 		parent::after($response);
 		$this->data->component_navigation = \Backend\Helper\Navigation::render(__('component_navigation'));
-		$this->data->component_content = \View::forge(\Backend\Helper\Component::$current_index,$this->data);
-		return \Response::forge(\View::forge('backend::overlay',$this->data));
+
+		if(is_array($this->component->options['type']) 
+			&& $this->component->options['type'][$this->component->current_index] == 'dragdropgrid')
+		{
+			$view = 'backend::overlay_dragdropgrid';
+		}
+			
+		if(is_array($this->component->options['type']) 
+			&& $this->component->options['type'][$this->component->current_index] == 'dragdrop')
+		{
+			$view = 'backend::overlay_dragdrop';
+		}
+			
+		if(is_array($this->component->options['type']) 
+			&& $this->component->options['type'][$this->component->current_index] == 'form'
+			|| $this->component->options['type'] == 'form')
+		{
+			$this->data->component_content = \View::forge(\Backend\Helper\Component::$current_index,$this->data);
+			$view = 'backend::overlay_form';
+		}
+			
+
+		return \Response::forge(\View::forge($view,$this->data));
 	}
 }

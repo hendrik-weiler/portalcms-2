@@ -1,0 +1,13 @@
+[
+	{
+		"label" : "Base",
+		"type" : "global",
+		"icon_url" : "server/component/base/base.jpg",
+		"options" : [
+			{
+				"title" : "General Settings",
+				"view" : "base::options/general_settings"
+			}
+		]
+	}
+]

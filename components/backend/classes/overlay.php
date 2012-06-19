@@ -28,15 +28,15 @@ class Overlay
 	public static function set_components(&$data)
 	{
 		$data->components = array();
-		$dirs = \File::read_dir(APPPATH . '../../components',1);
+		$components = \Config::get('always_load.modules');
 
-		foreach ($dirs as $dir => $bool) 
+		foreach ($components as $component) 
 		{
-			$filepath = APPPATH . '../../components/' . str_replace(DS,'',$dir) . '/options.json';
+			$filepath = APPPATH . '../../components/' . $component . '/options.json';
 			if(file_exists($filepath))
 			{
-				$component_data = json_decode(file_get_contents($filepath));
-				$component_data->name = str_replace(array('/',DS), '', $dir);
+				$component_data = json_decode(\File::read($filepath,true));
+				$component_data->name = $component;
 				$data->components[] = $component_data;
 			}	
 		}

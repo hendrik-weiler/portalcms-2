@@ -1,0 +1,14 @@
+{
+	"label" : {
+		"default" : "Component assistant",
+		"de" : "Komponenten Assistent",
+		"en" : "Component assistant"
+	},
+	"nav_url" : "administration",
+	"nav_visible" : true,
+	"type" : {
+		"index" : "dragdropgrid",
+		"settings" : "form"
+	},
+	"has_index" : false
+}
