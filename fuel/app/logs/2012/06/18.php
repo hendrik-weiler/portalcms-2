@@ -3810,3 +3810,153 @@ Error - 2012-06-18 17:45:00 --> 2048 - Only variables should be passed by refere
 Error - 2012-06-18 17:45:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
 Error - 2012-06-18 17:45:00 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
 Warning - 2012-06-18 17:45:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:23 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:30:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:30:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:30:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:30:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:30:24 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-18 19:30:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:39 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:40 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:30:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:46:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:46:58 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:00 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:00 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:01 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:04 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:04 --> Error - Class 'Logincenter\Check' not found in F:\web\portalcms2\fuel\app\classes\AuthController.php on line 7
+Warning - 2012-06-18 19:47:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:17 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-18 19:47:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:26 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-18 19:47:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:47:38 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Error - 2012-06-18 19:47:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Error - 2012-06-18 19:47:38 --> 2048 - Only variables should be passed by reference in F:\web\portalcms2\components\server\classes\controller\server.php on line 121
+Warning - 2012-06-18 19:47:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:36 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:52 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:49:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:01 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:50:06 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:51:58 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:51:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:51:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:51:59 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:00 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:15 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:20 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:34 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:35 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:41 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:52:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:02 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:03 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:04 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:48 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:53:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:42 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:54:55 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:24 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:25 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:53 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:55:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:57:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:37 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:49 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 19:58:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+Warning - 2012-06-18 20:48:45 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.

@@ -40,10 +40,6 @@ return array(
 		'adminlink' => 'Go to admin login!',
 	),
 
-	'global' => array(
-		'next' => 'Next',
-	),
-
 	'steps' => array(
 		1	=>	'SQL-Login',
 		2	=>	'Database Check',

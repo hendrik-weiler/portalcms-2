@@ -4,7 +4,7 @@ namespace Install;
 
 class Controller_Action extends \Controller
 {
-	private function _delete_trash_images($id,$image)
+	public static function _delete_trash_images($id,$image)
 	{
 		$folder = \File::read_dir(DOCROOT . 'uploads/avatars/' . $id . '/original',true);
 		foreach ($folder as $file) 
@@ -239,7 +239,7 @@ class Controller_Action extends \Controller
 		$avatar->picture = $image;
 		$avatar->save();
 
-		$this->_delete_trash_images($id,$image);
+		static::_delete_trash_images($id,$image);
 		$response = \Helper\AjaxLoader::to_r(__('messages.1'));
 
 		return \Helper\AjaxLoader::get_response($input, $response);

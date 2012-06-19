@@ -2,17 +2,9 @@
 <html>
 <head>
 	<title>Backend</title>
-	<?php
-		print Asset::css('bootstrap.min.css');
-		print Asset::css('autocomplete.css');
-		print Asset::js('jquery-1.7.2.min.js');
-		print Asset::js('jquery-ui.min.js');
-		print Asset::js('jquery.ocupload-1.1.2.min.js');
-		print \Helper\JsVarBase::render();
-	?>
+	<?php print Asset::css('bootstrap.min.css') ?>
+	<?php print Asset::js('jquery-1.7.2.min.js') ?>
 	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/backend/overlay.sass'); ?>">
-	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/public/redmond/jquery-ui-1.8.19.custom.css'); ?>">
-	<link rel="stylesheet" type="text/css" href="<?php print \Uri::create('server/component/' . Backend\Helper\Component::$name . '/' . Backend\Helper\Component::$name . '.sass'); ?>">
 </head>
 <body>
 	<div class="row head">
@@ -41,8 +33,7 @@
 	</div>
 	<div class="container">
 		<div class="body">
-			<?php print html_entity_decode($component_navigation); ?>
-			<?php print $component_content; ?>
+			<?php print \View::forge('index') ?>
 		</div>
 	</div>
 </body>

@@ -6,5 +6,6 @@
 	},
 	"nav_url" : "administration",
 	"nav_visible" : false,
-	"type" : "form"
+	"type" : "form",
+	"has_index" : false
 }

@@ -41,7 +41,7 @@ return array(
 	 *
 	 * Set this to false or remove if you using mod_rewrite.
 	 */
-	'index_file'  => '',
+	'index_file'  => false,
 
 	'profiling'  => false,
 
@@ -153,7 +153,7 @@ return array(
 		// Only transmit cookies over secure connections
 		'secure'      => false,
 		// Only transmit cookies over HTTP, disabling Javascript access
-		'http_only'   => false,
+		'http_only'   => true,
 	),
 
 	/**
@@ -197,7 +197,9 @@ return array(
 		 * A path must be set in module_paths for this to work.
 		 */
 		'modules'  => array(
-			'install','server','helper','db','logincenter','backend','lightforum'
+			'install','server','helper','db','logincenter','backend','settings','frontend',
+			# custom
+			'lightforum',
 		),
 
 		/**
