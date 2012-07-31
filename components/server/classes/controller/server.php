@@ -143,7 +143,7 @@ class Controller_Server extends \Controller
 
 			foreach (static::$serve_list[$id] as $key => $value) 
 			{
-				$body .= Model_Cache::check($key,$value);
+				$body .= Cache::check($key,$value);
 			}
 
 			$this->response->set_header('Content-Type', $this->_get_mimetype('.' . $id));
@@ -164,7 +164,7 @@ class Controller_Server extends \Controller
 						$filepath = static::$serve_list[$type][$name];
 						$type = static::_get_mimetype($filepath);
 						$this->response->set_header('Content-Type', $type);
-						$get_cache_content = Model_Cache::check($identifier,$filepath);
+						$get_cache_content = Cache::check($identifier,$filepath);
 						$this->response->body .= '/* ----- ' . $identifier . ' -----' . PHP_EOL;
 						$this->response->body .= $get_cache_content . PHP_EOL;
 					}
@@ -193,7 +193,7 @@ class Controller_Server extends \Controller
 			$type = 'img';
 
 		if(static::$is_public_asset)
-			$path = DOCROOT . 'assets/' . $type . '/' . $component . '/' . $file;
+			$path = DOCROOT . 'assets/' . $component . '/' . $file;
 		else
 			$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file;
 
@@ -216,8 +216,6 @@ class Controller_Server extends \Controller
 				$file_data['extension']
 			);
 		}
-
-			 
 		
 		return $this->response;
 	}

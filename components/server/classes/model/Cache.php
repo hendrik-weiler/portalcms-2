@@ -2,7 +2,7 @@
 
 namespace Server;
 
-class Model_Cache
+class Model_Cache extends \Model
 {
 
 	private static function _minify($path,$compression=true)
@@ -71,7 +71,7 @@ class Model_Cache
 		}
 		else if($parser_type == 'css')
 		{
-			\File::update($path,$filename,Model_Css::parse($rootFile,'min'));
+			\File::update($path,$filename,Css::parse($rootFile,'min'));
 		}
 		return \File::read($path . $filename,true);
 	}
