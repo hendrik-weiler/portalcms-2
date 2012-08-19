@@ -11,8 +11,8 @@
 		print Asset::js('ajax_load.js');
 		print \Helper\JsVarBase::render();
 	?>
-	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/logincenter/logincenter.sass'); ?>">
 	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/public/redmond/jquery-ui-1.8.19.custom.css'); ?>">
+	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/logincenter/logincenter.sass'); ?>">
 	<script type="text/javascript">
 	var logins = [];
 	</script>

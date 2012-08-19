@@ -193,7 +193,7 @@ class Controller_Server extends \Controller
 			$type = 'img';
 
 		if(static::$is_public_asset)
-			$path = DOCROOT . 'assets/' . $component . '/' . $file;
+			$path = DOCROOT . 'assets/' . $type . '/' . $component . '/' . $file;
 		else
 			$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file;
 
