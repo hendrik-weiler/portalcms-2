@@ -2,6 +2,10 @@
 
 return array(
 
+	'global' => array(
+		'next' => 'Next'
+	),
+
 	1 => array(
 		'prod_label' => 'Production(wont be validated)',
 		'develop_label' => 'Development',

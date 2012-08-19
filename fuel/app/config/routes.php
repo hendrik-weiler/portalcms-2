@@ -1,5 +1,5 @@
 <?php
 return array(
-	'_root_' => 'frontend/index',
-	'_404_' => 'frontend/404',
+	'_root_' => 'public/index',
+	'_404_' => 'public/404',
 );
