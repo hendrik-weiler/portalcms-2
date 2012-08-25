@@ -8,6 +8,8 @@
 		print Asset::js('jquery-1.7.2.min.js');
 		print Asset::js('jquery-ui.min.js');
 		print Asset::js('jquery.ocupload-1.1.2.min.js');
+		print Asset::js('bootstrap.min.js');
+		print Asset::js('tooltip.js');
 		print \Helper\JsVarBase::render();
 	?>
 	<link rel="stylesheet" type="text/css" href="<?php print Uri::create('server/component/backend/overlay.sass'); ?>">

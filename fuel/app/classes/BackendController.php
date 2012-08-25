@@ -8,6 +8,13 @@ class BackendController extends \AuthController
 
 	protected $account;
 
+	private $_template = false;
+
+	protected function template($name)
+	{
+		$this->_template = $name;
+	}
+
 	public function before()
 	{
 		parent::before();
@@ -63,8 +70,12 @@ class BackendController extends \AuthController
 			$this->data->component_content = \View::forge(\Backend\Helper\Component::$current_index,$this->data);
 			$view = 'backend::overlay_form';
 		}
-			
 
+		if($this->_template != false)
+		{
+			$this->data->component_content = \View::forge($this->_template,$this->data);
+		}
+			
 		return \Response::forge(\View::forge($view,$this->data));
 	}
 }

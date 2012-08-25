@@ -51,12 +51,10 @@ class Model_Cache extends \Model
 		}	
 		else if($parser_type == 'coffee')
 		{
-			require APPPATH . 'vendor/CoffeeScript/Init.php';
-
-			@\CoffeeScript\Init::load();
-			\File::update($path,$filename,
-			 	\CoffeeScript\Compiler::compile($content_file)
-			);
+			
+			#\File::update($path,$filename,
+			# 	
+			#);
 		}
 		else if($parser_type == 'sass' || $parser_type == 'scss')
 		{

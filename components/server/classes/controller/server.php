@@ -11,6 +11,8 @@ class Controller_Server extends \Controller
 
 	private static $is_public_asset = false;
 
+	private static $is_tooltip = false;
+
 	private function _get_type($identifier)
 	{
 		foreach (static::$serve_list as $key => $value) 
@@ -194,6 +196,21 @@ class Controller_Server extends \Controller
 
 		if(static::$is_public_asset)
 			$path = DOCROOT . 'assets/' . $type . '/' . $component . '/' . $file;
+		else if(static::$is_tooltip)
+		{
+			$path = APPPATH . '../../components/' . $component . '/tooltip/' . str_replace('-', '/', $this->param('path')) . '.xml';
+
+			if(!file_exists($path))
+				return '';
+
+			$dir = (object)pathinfo($path);
+			$data = file_get_contents($path);
+
+			$this->response->set_header('Content-Type', $dir->extension);
+			$this->response->body = $data;
+
+			return $this->response;
+		}
 		else
 			$path = APPPATH . '../../components/' . $component . '/assets/' . $type . '/' . $file;
 
@@ -223,6 +240,12 @@ class Controller_Server extends \Controller
 	public function action_public()
 	{
 		static::$is_public_asset = true;
+		return $this->action_component();
+	}
+
+	public function action_tooltip()
+	{
+		static::$is_tooltip = true;
 		return $this->action_component();
 	}
 }

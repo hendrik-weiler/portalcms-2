@@ -197,9 +197,13 @@ return array(
 		 * A path must be set in module_paths for this to work.
 		 */
 		'modules'  => array(
+			# active
+			#%active_modules
 			'install','server','helper','db','logincenter','backend','settings','frontend',
 			# custom
 			'lightforum','cassistant',
+
+			# endactive
 		),
 
 		/**

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tooltips>
+	<tooltip selector="div.main_nav li a[href*=cassistant]" language="de" position="bottom">
+		Hier können die Komponenten verwaltet werden.
+	</tooltip>
+	<tooltip selector="div.main_nav li a[href*=cassistant]" language="en" position="bottom">
+		Here you can manage the components.
+	</tooltip>
+</tooltips>
