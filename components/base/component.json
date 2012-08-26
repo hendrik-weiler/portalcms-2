@@ -1,0 +1,9 @@
+{
+	"version" : 0.1,
+	"category" : "Other",
+	"id" : "base-component",
+	"replace-component" : "none",
+	"dependencies" : [
+		"core-backend"
+	]
+}

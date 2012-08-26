@@ -130,6 +130,23 @@ class v200 implements \Install\p2migration
             'permissions' => array('type' => 'text', 'null' => true),
         ), array('id'));
 
+      \DBUtil::create_table('component_storage', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'component' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'label' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'value' => array('type' => 'text', 'null' => true),
+        ), array('id'));
+
+      \DBUtil::create_table('component_info', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'type' => array('type' => 'int', 'constraint' => 10),
+            'version' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'category' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'name' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'pictures' => array('type' => 'text', 'null' => true),
+            'description' => array('type' => 'text', 'null' => true),
+        ), array('id'));
+
         foreach($languages as $language)
         	$this->_createCMSDataByLang($language);
 	}

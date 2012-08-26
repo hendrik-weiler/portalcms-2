@@ -185,7 +185,7 @@ return array(
 		 * );
 		 */
 		'packages'  => array(
-			'orm','auth','parser'
+			'orm','auth','parser','zend'
 		),
 
 		/**
@@ -198,11 +198,7 @@ return array(
 		 */
 		'modules'  => array(
 			# active
-			#%active_modules
-			'install','server','helper','db','logincenter','backend','settings','frontend',
-			# custom
-			'lightforum','cassistant',
-
+			'install','server','helper','db','cstorage','logincenter','backend','settings','frontend','lightforum','cassistant',#%new_module%#
 			# endactive
 		),
 

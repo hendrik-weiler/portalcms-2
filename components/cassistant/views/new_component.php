@@ -45,4 +45,4 @@
 
 <?php print Form::close(); ?>
 
-<script type="text/javascript" src="<?php print \Uri::create('server/component/cassistant/test.js') ?>"></script>
+<script type="text/javascript" src="<?php print \Uri::create('server/component/cassistant/labels.js') ?>"></script>

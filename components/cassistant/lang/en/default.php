@@ -13,7 +13,16 @@ return array(
 		'entry_value' => 'Value',
 	),
 
-	'new_component' => 'Add a new component',
+	'th' => array(
+		'name' => 'Name',
+		'version' => 'Version',
+		'status' => 'Status',
+		'id' => 'Id-Name',
+		'core_components' => 'Core Components',
+		'non_core_components' => 'Other Components',
+	),
+
+	'new_component' => 'Create a new component',
 	'active' => 'Active',
 	'inactive' => 'Inactive',
 );

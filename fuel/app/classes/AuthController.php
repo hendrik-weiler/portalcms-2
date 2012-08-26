@@ -1,9 +1,10 @@
 <?php
 
-class AuthController extends \Controller
+class AuthController extends \ComponentController
 {
 	public function before()
 	{
+		parent::before();
 		\Logincenter\Check::login($this);
 	}
 }
