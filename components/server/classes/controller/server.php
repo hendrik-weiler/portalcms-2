@@ -2,7 +2,7 @@
 
 namespace Server;
 
-class Controller_Server extends \Controller
+class Controller_Server extends \ComponentController
 {
 	public static $serve_list = array(
 		'css' => array(),

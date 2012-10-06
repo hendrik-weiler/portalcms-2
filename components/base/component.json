@@ -6,5 +6,6 @@
 	"replace-component" : "none",
 	"dependencies" : [
 		"core-backend"
-	]
+	],
+	"frontend_display" : false
 }

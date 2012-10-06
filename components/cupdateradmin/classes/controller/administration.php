@@ -36,9 +36,12 @@ class Controller_Administration extends \BackendController
 		$this->data->category = $component->category;
 		$this->data->name = $component->name;
 		$this->data->preview_index = $component->preview_index;
+
+		$pictures = json_decode($component->pictures);
+		$pictures = is_array($pictures) ? $pictures : array();
 		$this->data->pictures = array_map(function($str) use ($component) {
 			return \Uri::create('repository/' . $component->id . '/thumb_' . $str);
-		},json_decode($component->pictures));
+		}, $pictures);
 		$this->data->description = $component->description;
 		$this->data->package = $component->package;
 		$this->data->action_url = 'cupdateradmin/action/edit/' . $id . '/save';

@@ -198,7 +198,7 @@ return array(
 		 */
 		'modules'  => array(
 			# active
-			'install','server','helper','db','cstorage','logincenter','backend','settings','frontend','cassistant','cupdater','cupdateradmin'#%new_module%#
+			'install','server','helper','db','cstorage','logincenter','backend','settings','frontend','cassistant','cupdater','cupdateradmin','shop'#%new_module%#
 			# endactive
 		),
 
