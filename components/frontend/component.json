@@ -1,5 +1,6 @@
 {
 	"version" : 0.1,
 	"category" : "Frontend",
+	"author" : "Hendrik Weiler",
 	"id" : "core-frontend"
 }

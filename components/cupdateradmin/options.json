@@ -1,0 +1,11 @@
+{
+	"label" : {
+		"default" : "Updater Admin",
+		"de" : "Updater Admin",
+		"en" : "Updater Admin"
+	},
+	"nav_url" : "administration",
+	"nav_visible" : true,
+	"type" : "form",
+	"has_index" : true
+}

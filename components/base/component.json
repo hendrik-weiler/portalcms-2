@@ -2,6 +2,7 @@
 	"version" : 0.1,
 	"category" : "Other",
 	"id" : "base-component",
+	"author" : "Someone",
 	"replace-component" : "none",
 	"dependencies" : [
 		"core-backend"

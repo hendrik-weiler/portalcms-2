@@ -26,9 +26,9 @@ class Storage
 
 		if(\db\component\Storage::getKey($full_label)->value == 'undefined')
 		{
-			var_dump($component,$label);
 			$storage = new \db\component\Storage();
 			$storage->component = $component;
+			$storage->account_id = \db\Accounts::getCol(\Session::get('current_session'),'id');
 			$storage->label = $label;
 			$storage->value = $value;
 			$storage->save();

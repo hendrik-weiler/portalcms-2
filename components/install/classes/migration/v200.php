@@ -139,12 +139,15 @@ class v200 implements \Install\p2migration
 
       \DBUtil::create_table('component_info', array(
             'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
-            'type' => array('type' => 'int', 'constraint' => 10),
             'version' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
             'category' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
             'name' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'author' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
+            'package' => array('type' => 'varchar', 'constraint' => 255, 'null' => true),
             'pictures' => array('type' => 'text', 'null' => true),
             'description' => array('type' => 'text', 'null' => true),
+            'preview_index' => array('type' => 'int', 'constraint' => 10, 'null' => true),
+            'creation_date' => array('type' => 'timestamp','default' => \DB::expr('CURRENT_TIMESTAMP'), 'null' => true),
         ), array('id'));
 
         foreach($languages as $language)

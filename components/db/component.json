@@ -1,5 +1,6 @@
 {
 	"version" : 0.1,
 	"category" : "Supporting",
-	"id" : "core-db"
+	"id" : "core-db",
+	"author" : "Hendrik Weiler"
 }
