@@ -24,4 +24,20 @@ class Option extends \Orm\Model
 
 		return $option;
 	}
+
+	public static function getKeyNew($key, $default)
+	{
+		$result = static::getKey($key);
+
+		if($result->value == 'undefined')
+		{
+			$new_row = new Option();
+			$new_row->key = $key;
+			$new_row->value = $default;
+			$new_row->save();
+			$result = $new_row;
+		}
+
+		return $result;
+	}
 }

@@ -1,8 +1,8 @@
 {
 	"label" : {
-		"default" : "Shop",
-		"de" : "Shop",
-		"en" : "Shop"
+		"default" : "Layout",
+		"de" : "Layout",
+		"en" : "Layout"
 	},
 	"nav_url" : "administration",
 	"nav_visible" : true,

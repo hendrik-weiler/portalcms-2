@@ -5,6 +5,15 @@ namespace Frontend;
 class Initializer extends \ComponentController
 {
 
+	public static $component_output = array();
+
+	public static $base_layout = 'start.php';
+
+	public function __construct()
+	{
+		parent::before();
+	}
+
 	private function get_frontend_components()
 	{
 		$components = \File::read_dir(DOCROOT . '../components/',1);
@@ -29,12 +38,26 @@ class Initializer extends \ComponentController
 
 		foreach ($component_list as $component) 
 		{
-			$component = '\\' . ucfirst($component) . '\\Display';
+			$component_name = $component;
+
+			$component = '\\' . ucfirst($component) . '\\Frontend';
 			$component = new $component();
-			$result = $component->show();
+
+			$reflector = new \ReflectionClass(new $component());
+			if($reflector->hasProperty('base_layout'))
+				static::$base_layout = $component->base_layout;
+
+			static::$component_output[$component_name] = $component->get_output();
 		}
 
-		return $this->response;
+		$selected_layout = $this->option->get('selected_layout');
+		if($selected_layout->value == 'undefined')
+		{
+			print 'Option "selected_layout" is missing.';
+			exit;
+		}
+
+		return \View::forge($this->path->layouts . '/' . $selected_layout->value . '/' . static::$base_layout, static::$component_output);
 	}
 
 }

@@ -5,7 +5,7 @@
 		"en" : "Updater"
 	},
 	"nav_url" : "administration",
-	"nav_visible" : true,
+	"nav_visible" : false,
 	"type" : "form",
 	"has_index" : true
 }

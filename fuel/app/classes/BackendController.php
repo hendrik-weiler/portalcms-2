@@ -43,7 +43,9 @@ class BackendController extends \AuthController
 		 && $this->component->current_index == 'index')
 		{
 			return \Response::redirect($this->component->base_url . '/' . $this->component->navigation[0]);
-		}		
+		}	
+
+		$this->data->option = $this->option;	
 	}
 
 	public function after($response)

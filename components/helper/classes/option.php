@@ -1,0 +1,26 @@
+<?php
+
+namespace Helper;
+
+class Option
+{
+	public function __construct()
+	{
+		$options = \db\Option::find('all');
+
+		foreach ($options as $option) 
+		{
+			$this->{$option->key} = $option->value;
+		}
+	}
+
+	public function get_or_create_new($key, $value)
+	{
+		return \db\Option::getKeyNew($key, $value);
+	}
+
+	public function get($key)
+	{
+		return \db\Option::getKey($key);
+	}
+}

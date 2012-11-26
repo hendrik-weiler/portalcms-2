@@ -1,10 +1,8 @@
 {
 	"version" : 0.1,
-	"category" : "Backend",
-	"id" : "core-updater-admin",
+	"category" : "Updater",
+	"id" : "updater-admin",
 	"author" : "Hendrik Weiler",
 	"replace-component" : "none",
-	"dependencies" : [
-		"core-backend"
-	]
+	"loaded" : true
 }

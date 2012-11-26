@@ -1,8 +1,8 @@
 <?php
 
 return array(
-	'base/administration/:view' => 'base/administration/index',
-	'base/administration' => 'base/administration/index',
+	'shop/administration/:view' => 'shop/administration/index',
+	'shop/administration' => 'shop/administration/index',
 
-	'base/action/index' => 'base/action/index',
+	'shop/action/index' => 'shop/action/index',
 );
