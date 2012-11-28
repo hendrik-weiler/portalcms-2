@@ -70,7 +70,6 @@ class v200 implements \Install\p2migration
             'sort' => array('type' => 'int', 'constraint' => 11, 'null' => true),
         ), array('id'));
 
-        
 	}
 
 	private function _deleteCMSDataByLang($lang)
@@ -148,6 +147,25 @@ class v200 implements \Install\p2migration
             'description' => array('type' => 'text', 'null' => true),
             'preview_index' => array('type' => 'int', 'constraint' => 10, 'null' => true),
             'creation_date' => array('type' => 'timestamp','default' => \DB::expr('CURRENT_TIMESTAMP'), 'null' => true),
+        ), array('id'));
+
+
+      \DBUtil::create_table('shop_item', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'mwst_group_id' => array('type' => 'int', 'constraint' => 10,'null' => true),
+            'category_id' => array('type' => 'int', 'constraint' => 10, 'null' => true),
+            'label' => array('type' => 'text', 'null' => true),
+            'description' => array('type' => 'text', 'null' => true),
+            'offer' => array('type' => 'text', 'null' => true),
+            'article_number' => array('type' => 'text', 'null' => true),
+            'pictures' => array('type' => 'text', 'null' => true),
+        ), array('id'));
+
+      \DBUtil::create_table('shop_category', array(
+            'id' => array('type' => 'int', 'constraint' => 10,'auto_increment' => true),
+            'label' => array('type' => 'text', 'null' => true),
+            'url' => array('type' => 'text', 'null' => true),
+            'order' => array('type' => 'int', 'constraint' => 10, 'null' => true),
         ), array('id'));
 
         foreach($languages as $language)

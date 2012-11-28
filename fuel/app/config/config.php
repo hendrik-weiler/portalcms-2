@@ -186,7 +186,7 @@ return array(
 		 * );
 		 */
 		'packages'  => array(
-			'orm','auth','parser','zend'
+			'orm','auth','parser','zend','coffeescript'
 		),
 
 		/**

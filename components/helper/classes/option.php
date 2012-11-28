@@ -6,7 +6,10 @@ class Option
 {
 	public function __construct()
 	{
-		$options = \db\Option::find('all');
+		if(!file_exists(DOCROOT . '../DATABASE_FINISHED'))
+			$options = array();
+		else
+			$options = \db\Option::find('all');
 
 		foreach ($options as $option) 
 		{

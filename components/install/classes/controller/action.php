@@ -116,6 +116,8 @@ class Controller_Action extends \Controller
 		else
 		{
 			$this->_write_database_files($dev_user,$dev_pass,$prod_user,$prod_pass,$db);
+			if(!file_exists(DOCROOT . '../DATABASE_FINISHED'))
+			\File::create(DOCROOT . '../','DATABASE_FINISHED','This file helps portalcms2 to work.');
 		}
 
 		return \Helper\AjaxLoader::get_response($input, $response);
@@ -167,6 +169,9 @@ class Controller_Action extends \Controller
 			$dbv->value = $version_updates[count($version_updates)-1];
 			$dbv->save();
 		}
+
+		if(!file_exists(DOCROOT . '../DATABASE_FINISHED'))
+		\File::create(DOCROOT . '../','DATABASE_FINISHED','This file helps portalcms2 to work.');
 
 		return \Helper\AjaxLoaderProgress::get_response($input, json_encode($result));
 	}

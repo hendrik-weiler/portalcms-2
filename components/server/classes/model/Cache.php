@@ -51,10 +51,9 @@ class Model_Cache extends \Model
 		}	
 		else if($parser_type == 'coffee')
 		{
-			
-			#\File::update($path,$filename,
-			# 	
-			#);
+ 			$js = \CoffeeScript\Compiler::compile($content_file);
+
+ 			\File::update($path,$filename, $js);
 		}
 		else if($parser_type == 'sass' || $parser_type == 'scss')
 		{

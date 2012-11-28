@@ -14,6 +14,7 @@ class v201 implements \Install\p2migration
 
 	public function update($languages)
 	{
+
 	}
 
 	public function remove()
