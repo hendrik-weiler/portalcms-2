@@ -137,6 +137,7 @@ return array(
 			'Fuel\\Core\\View',
 			'Fuel\\Core\\ViewModel',
 			'Helper\\Option',
+			'Helper\\Form\\Wrapper',
 			'Closure',
 		)
 	),

@@ -46,6 +46,8 @@ class BackendController extends \AuthController
 		}	
 
 		$this->data->option = $this->option;	
+
+		$this->data->form = new \Helper\Form\Wrapper();
 	}
 
 	public function after($response)

@@ -11,6 +11,7 @@
 		print Asset::js('jquery-ui.min.js');
 		print Asset::js('jquery.ocupload-1.1.2.min.js');
 		print Asset::js('jquery.base64.min.js');
+		print Asset::js('tiny_mce/tiny_mce.js');
 		print Asset::js('bootstrap.min.js');
 		print Asset::js('storage.js');
 		print Asset::js('tooltip.js');

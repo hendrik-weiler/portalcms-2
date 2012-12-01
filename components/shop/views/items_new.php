@@ -1,26 +1,33 @@
 <script type="text/javascript" src="<?php print Uri::create('server/component/shop/test.coffee'); ?>"></script>
-<?php print Form::open('shop/administration/items/new/create'); ?>
+<?php 
 
-<div class="control-group">
+$form->create('shop/administration/items/new/create'); 
 
-	<?php print Form::label(__('controls.label'),'label',array('class'=>'control-label')) ?>
-	<div class="controls">
-		<?php print Form::input('label',''); ?>
-	</div>
+$form->input->create(__('controls.label'),'label'); 
 
-</div>
+$form->input->create(__('controls.item_nr'),'item_nr'); 
 
-<div class="control-group">
+$form->checkbox->create('offer','Offer','offer');
 
-	<?php print Form::label(__('controls.item_nr'),'label',array('class'=>'control-label')) ?>
-	<div class="controls">
-		<?php print Form::input('label',''); ?>
-	</div>
+$form->radiobutton->create(array(
+	array('Dies ist ein Test','test'),
+	array('Dies ist ein anderer Test','test2',true),
+	array('Dies ist ein dritter Test','test3')
+),'offer');
 
-</div>
+$form->textarea->create_editor('test','');
 
-<div class="form-actions">
-	<?php print Form::submit('create',__('global.save'),array('class'=>'btn btn-primary')); ?>
-</div>
+$form->select->create(array(
+	'test',
+	'test2',
+	'test3'
+),'test');
 
-<?php print Form::close(); ?>
+$form->actionfield->create(array(
+	$form->submit->create(__('global.create'),'create','primary'),
+	$form->submit->create(__('global.back'),'back')
+)); 
+
+print $form() 
+
+?>

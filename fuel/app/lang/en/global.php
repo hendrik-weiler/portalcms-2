@@ -10,5 +10,9 @@ return array(
 		'next' => 'Next',
 		'save' => 'Save',
 		'back' => 'Back',
+		'create' => 'Create',
+		'edit' => 'Edit',
+		'delete' => 'Delete',
+		'remove' => 'Remove',
 	),
 );

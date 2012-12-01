@@ -10,6 +10,7 @@ class Item extends \Orm\Model
 		'id', 
 		'mwst_group_id', 
 		'category_id',
+		'options',
 		'label', 
 		'description',
 		'offer',
