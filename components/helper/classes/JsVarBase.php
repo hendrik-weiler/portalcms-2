@@ -7,6 +7,7 @@ class JsVarBase
 	protected static $_html = '
 	<script type="text/javascript">
 		var _url = "[url]";
+		var _current_url = "[current_url]";
 		var _segments = [[segments]];
 		var _components = [[components]];
 	</script>';
@@ -27,10 +28,10 @@ class JsVarBase
 
 		$html = str_replace(
 		array(
-			'[url]','[segments]','[components]'
+			'[url]','[current_url]','[segments]','[components]'
 			), 
 		array(
-			$url,implode(',',$segments),implode(',',$components)
+			$url,\Uri::current(),implode(',',$segments),implode(',',$components)
 		), $html);
 
 		return $html;

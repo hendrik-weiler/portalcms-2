@@ -8,6 +8,8 @@ class BackendController extends \AuthController
 
 	protected $account;
 
+	protected $no_render = false;
+
 	private $_template = false;
 
 	protected function template($name)
@@ -50,9 +52,17 @@ class BackendController extends \AuthController
 		$this->data->form = new \Helper\Form\Wrapper();
 	}
 
+	public function no_render()
+	{
+		$this->no_render = true;
+	}
+
 	public function after($response)
 	{
+		if($this->no_render) return $this->response;
+
 		parent::after($response);
+
 		$this->data->component_navigation = \Backend\Helper\Navigation::render(__('component_navigation'));
 
 		if(is_array($this->component->options['type']) 

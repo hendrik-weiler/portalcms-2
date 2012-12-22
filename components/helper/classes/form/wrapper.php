@@ -37,8 +37,9 @@ class Wrapper extends \Form
 		$this->select = new Select();
 	}
 
-	public function create($url, $type='horizontal', $class='')
+	public function create($url, $type='horizontal', $class='', $returns_back = false)
 	{
+		static::$current_form = array();
 		switch($type)
 		{
 			case 'horizontal':
@@ -50,6 +51,8 @@ class Wrapper extends \Form
 			break;
 		}
 
+		if($returns_back) \Uri::create($url) . '?return=' . \Uri::current(); 
+
 		static::$current_form[] = static::open(array('action'=>$url,'class'=>$type . $class,'enctype'=>'multipart/form-data'));
 	}
 
@@ -60,6 +63,6 @@ class Wrapper extends \Form
 
 	public function __invoke()
 	{
-		return implode('',static::$current_form + array( static::close() ) );
+		return implode('',static::$current_form) . static::close();
 	}
 }

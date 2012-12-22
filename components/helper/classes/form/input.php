@@ -18,7 +18,7 @@ class Input extends \Form
 		Wrapper::$current_form[] = str_replace(array(
 			'%label%', '%input%'
 		), array(
-			static::label($label, $name,array('class'=>'control-label' . $class)),
+			static::label($label, $name,array('class'=>'control-label ' . $class)),
 			static::input($name,$value,array('class'=>$class))
 		), $this->template);
 	}

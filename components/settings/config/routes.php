@@ -1,6 +1,7 @@
 <?php
 
 return array(
+
 	'settings/administration/:view' => 'settings/administration/index',
 	'settings/administration' => 'settings/administration/index',
 

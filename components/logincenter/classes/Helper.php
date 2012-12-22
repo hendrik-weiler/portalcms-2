@@ -10,6 +10,13 @@ class Helper
 
 		$modules = \Config::get('always_load.modules');
 
+		$start_module = \Config::get('portalcms2.login.start_module');
+
+		if($start_module != 'auto')
+		{
+			return \Uri::create($start_module . '/administration');
+		}
+
 		foreach ($components as $dir => $s) 
 		{
 			$dir = str_replace(array('\\','/'), '', $dir);

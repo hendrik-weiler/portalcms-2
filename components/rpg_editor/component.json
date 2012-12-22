@@ -1,0 +1,7 @@
+{
+	"version" : 0.1,
+	"category" : "RPG Editor",
+	"id" : "rpg-editor",
+	"author" : "Hendrik Weiler",
+	"frontend_display" : false
+}
