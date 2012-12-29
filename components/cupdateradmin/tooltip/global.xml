@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tooltips>
-	<tooltip selector="div.main_nav li a[href*=cupdater]" language="de" position="bottom">
-		Hier können Sie Ihr System auf Updates prüfen.
-	</tooltip>
-	<tooltip selector="div.main_nav li a[href*=cupdater]" language="en" position="bottom">
-		Here you can Check for Systemupdates.
-	</tooltip>
-</tooltips>

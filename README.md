@@ -4,6 +4,8 @@ Version 2
 
 #Very unfinished!
 
+## This repository keeps being empty till the [base](https://github.com/hendrik-weiler/portalcms2-base) is far enough developed to create the actual cms
+
 Build on [FuelPHP Framework](https://github.com/fuel/fuel)<br />
 Using:<br />
 [Nivo-Slider](https://github.com/gilbitron/Nivo-Slider)<br />
